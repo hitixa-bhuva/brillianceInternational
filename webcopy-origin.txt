@@ -1,0 +1,1188 @@
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://shipex-demo.pbminfotech.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\index.htm
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/about-us.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\about-us.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-classic.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-classic.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-grid-col-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-grid-col-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-grid-col-4.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-grid-col-4.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-m-grid-col-2.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-m-grid-col-2.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-m-grid-col-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-m-grid-col-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-m-grid-col-4.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-m-grid-col-4.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-masonry-wide.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-masonry-wide.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-single-details.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-single-details.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/blog-sortable-grid-view.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\blog-sortable-grid-view.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/contact-us.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\contact-us.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/aos.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\aos.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/base.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\base.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/flaticon.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\flaticon.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/pbminfotech-base-icons.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\pbminfotech-base-icons.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/responsive.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\responsive.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/shortcode.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\shortcode.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/style.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\style.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/faq.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\faq.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/flaticon.eot?46cbd5aaf58197642bdde868cb49ca8d
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/flaticon.svg?46cbd5aaf58197642bdde868cb49ca8d
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/flaticon.ttf?46cbd5aaf58197642bdde868cb49ca8d
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/flaticon.woff2?46cbd5aaf58197642bdde868cb49ca8d
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/flaticon.woff?46cbd5aaf58197642bdde868cb49ca8d
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/pbminfotech-base-icons.eot?10866456
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\pbminfotech-base-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/pbminfotech-base-icons.svg?10866456
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\pbminfotech-base-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/pbminfotech-base-icons.ttf?10866456
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\pbminfotech-base-icons.ttf
+Content Type: font/ttf
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/pbminfotech-base-icons.woff2?10866456
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\pbminfotech-base-icons.woff2
+Content Type: font/woff2
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/pbminfotech-base-icons.woff?10866456
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\pbminfotech-base-icons.woff
+Content Type: font/woff
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/homepage-2.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\homepage-2.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/homepage-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\homepage-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/author-img.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\author-img.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/avtar/img-01.jpeg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\avtar\img-01.jpeg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/avtar/img-02.jpeg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\avtar\img-02.jpeg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/award/award-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\award\award-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/award/award-02.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\award\award-02.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-01-slide-1.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-01-slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-01-slide-2.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-01-slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-01-slide-3.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-01-slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-02-slide1.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-02-slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-02-slide2.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-02-slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/demo-02-slide3.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\demo-02-slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/slider1-shape.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\slider1-shape.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/banner-slider-img/slider2-shape.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\banner-slider-img\slider2-shape.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/bg/footer-bg-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\bg\footer-bg-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/bg/service-ad-bg.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\bg\service-ad-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/bg/titlebar.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\bg\titlebar.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-01b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-01b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-02b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-02b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-03b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-03b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-04b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-04b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-05b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-05b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-06b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-06b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-08b.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-08b.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-09.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-09.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-img-09.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-img-09.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-single-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-single-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/blog/blog-single-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\blog\blog-single-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-02.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-02.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-03.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-03.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-04.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-04.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-05.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-05.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-06.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-06.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-07.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-07.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-08.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-08.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-dark-09.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-dark-09.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-02.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-02.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-03.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-03.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-04.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-04.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-05.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-05.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-06.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-06.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-07.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-07.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-08.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-08.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/client/client-global-09.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\client\client-global-09.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/fevicon.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\fevicon.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/history/history-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\history\history-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/about.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\about.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/bg-pattern-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\bg-pattern-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/bg-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\bg-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/contact-bg.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\contact-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/fid-bg-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\fid-bg-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/freight-from-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\freight-from-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/service-bg-truck.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\service-bg-truck.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/bg/video-bg.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\bg\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/blog/blog-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/blog/blog-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\blog\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/blog/blog-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\blog\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/blog/blog-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\blog\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/blog/blog-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\blog\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/reviewer/reviewer-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\reviewer\reviewer-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/reviewer/reviewer-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\reviewer\reviewer-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/reviewer/reviewer-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\reviewer\reviewer-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/reviewer/reviewer-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\reviewer\reviewer-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/service/service-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\service\service-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/service/service-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\service\service-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/service/service-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\service\service-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/service/service-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\service\service-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/static-box/static-box-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\static-box\static-box-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/static-box/static-box-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\static-box\static-box-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/static-box/static-box-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\static-box\static-box-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/static-box/static-box-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\static-box\static-box-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-1/team/team-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-1\team\team-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/1st-award.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\1st-award.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/award-box/img-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\award-box\img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/award-box/img-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\award-box\img-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/award-box/img-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\award-box\img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/award-box/img-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\award-box\img-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/bg/about-left-bg.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\bg\about-left-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/bg/bg-pattern-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\bg\bg-pattern-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/bg/bg-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\bg\bg-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/bg/fid-bg.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\bg\fid-bg.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/bg/service-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\bg\service-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/blog/blog-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/map-img.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\map-img.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/portfolio/portfolio-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\portfolio\portfolio-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/reviewer/reviewer-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\reviewer\reviewer-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/reviewer/reviewer-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\reviewer\reviewer-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/reviewer/reviewer-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\reviewer\reviewer-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/reviewer/reviewer-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\reviewer\reviewer-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/static-box/static-box-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\static-box\static-box-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/static-box/static-box-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\static-box\static-box-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-2/static-box/static-box-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-2\static-box\static-box-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/about-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\about-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/about-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\about-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/award/award-01.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\award\award-01.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/award/award-02.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\award\award-02.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/award/award-03.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\award\award-03.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/award/award-04.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\award\award-04.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/award/award-05.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\award\award-05.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/banner-img.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\banner-img.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/bg/accordian-bg-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\bg\accordian-bg-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/bg/left-pattern.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\bg\left-pattern.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/bg/shape-bottom.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\bg\shape-bottom.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/reviewer/reviewer-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\reviewer\reviewer-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/reviewer/reviewer-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\reviewer\reviewer-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/reviewer/reviewer-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\reviewer\reviewer-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/reviewer/reviewer-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\reviewer\reviewer-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/service/service-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\service\service-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/service/service-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\service\service-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/service/service-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\service\service-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/service/service-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\service\service-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/service/service-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\service\service-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/ship.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\ship.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/homepage-3/team/team-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\homepage-3\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/img.png
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\img.png
+Content Type: image/png
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/logo-white.svg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/logo.svg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-09.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-09.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-img-09.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-img-09.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-single-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-single-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-single-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-single-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/portfolio/portfolio-single-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\portfolio\portfolio-single-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/recent-post/blog-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\recent-post\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/recent-post/blog-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\recent-post\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/recent-post/blog-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\recent-post\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-07.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-07.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-08.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-08.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-img-09.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-img-09.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-single-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-single-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/service/service-single-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\service\service-single-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-02.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-03.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-04.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-05.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-06.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/images/team/team-single-01.jpg
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\images\team\team-single-01.jpg
+Content Type: image/jpeg
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/index.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\index.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/aos.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\aos.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/circle-progress.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\circle-progress.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\circle-progress.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/gsap-animation.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\gsap-animation.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/gsap.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\gsap.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery-validate/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery-validate\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery.appear.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery.countdown.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\jquery.waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/masonry.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\masonry.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/numinate.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\numinate.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/popper.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/scripts.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\scripts.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/ScrollTrigger.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\ScrollTrigger.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/SplitText.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\SplitText.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/js/theia-sticky-sidebar.js
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\js\theia-sticky-sidebar.js
+Content Type: text/javascript
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/our-history.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\our-history.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/our-team.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\our-team.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-detail-style-01.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-detail-style-01.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-detail-style-02.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-detail-style-02.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-grid-col-2.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-grid-col-2.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-grid-col-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-grid-col-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-grid-col-4.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-grid-col-4.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-grid-no-gap.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-grid-no-gap.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-m-grid-col-2.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-m-grid-col-2.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-m-grid-col-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-m-grid-col-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-m-grid-col-4.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-m-grid-col-4.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-m-grid-wide.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-m-grid-wide.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-sortable-grid-col-2.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-sortable-grid-col-2.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-sortable-grid-col-3.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-sortable-grid-col-3.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/portfolio-sortable-grid-col-4.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\portfolio-sortable-grid-col-4.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/service-details.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\service-details.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/services.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\services.html
+Content Type: text/html
+
+Uri: https://shipex-demo.pbminfotech.com/html-demo/team-member-detail.html
+File Name: C:\Downloaded Web Sites\shipex-demo.pbminfotech.com\html-demo\team-member-detail.html
+Content Type: text/html
+
