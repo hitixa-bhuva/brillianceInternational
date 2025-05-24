@@ -203,7 +203,7 @@ INDEX:
 /* 01 - Typography 
 /*----------------------------------------*/
  body {
-     font-family:var(--pbmit-body-typography-font-family);
+     /* font-family:var(--pbmit-body-typography-font-family); */
      font-weight: var(--pbmit-body-typography-variant);
      color: var(--pbmit-body-typography-color);
      font-size: var(--pbmit-body-typography-font-size);
@@ -531,7 +531,7 @@ ul.pbmit-contact-info{
 .main-menu .navigation > li > ul a{
 	position: relative;
     display: table-cell;
-	font-family: var(--pbmit-body-typography-font-family);
+	/* font-family: var(--pbmit-body-typography-font-family); */
     font-weight: 500;
     font-size: 13px;
     line-height: 23px;
