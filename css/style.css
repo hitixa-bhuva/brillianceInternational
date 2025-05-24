@@ -1555,7 +1555,7 @@ aside.widget.widget-tag-cloud a:hover,
 	letter-spacing: .5px;
 	font-style: normal;
 	color: var(--pbmit-global-color);
-	/* font-family: var(--pbmit-body-typography-font-family); */
+	font-family: var(--pbmit-body-typography-font-family);
 	font-weight: 600;
 }
 .blog-details .pbmit-entry-content blockquote cite:before{
