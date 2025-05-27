@@ -16,17 +16,17 @@ INDEX:
 @import url('../../css2');
 
 :root {
-	--pbmit-global-color: #00358d;
+	--pbmit-global-color: #e81840;
 	--pbmit-global-color-rgb: 0, 53, 141;
-	--pbmit-secondary-color: #000712;
+	--pbmit-secondary-color: #e81840;
 	--pbmit-secondary-color-rgb: 0, 17, 46;
 	--pbmit-light-color: #ebeff3;
 	--pbmit-white-color: #ffffff;
     --pbmit-white-color-rgb: 255, 255, 255;
 	--pbmit-blackish-color: #00112e;
 	--pbmit-blackish-color-rgb: 0, 17, 46;
-	--pbmit-link-color-normal: #00112e;
-	--pbmit-link-color-hover: #00358d;
+	--pbmit-link-color-normal: #e81840;
+	--pbmit-link-color-hover: #e81840;
 	--pbmit-responsive-breakpoint: 1200px;
 
 	--pbmit-body-typography-font-family: "Instrument Sans", serif;
@@ -203,7 +203,7 @@ INDEX:
 /* 01 - Typography 
 /*----------------------------------------*/
  body {
-     /* font-family:var(--pbmit-body-typography-font-family); */
+     font-family:var(--pbmit-body-typography-font-family);
      font-weight: var(--pbmit-body-typography-variant);
      color: var(--pbmit-body-typography-color);
      font-size: var(--pbmit-body-typography-font-size);
@@ -326,7 +326,7 @@ INDEX:
 }
 .pbmit-btn:hover{
 	color: var(--pbmit-white-color);
-	background-color: var(--pbmit-blackish-color);
+	background-color: var(--pbmit-global-color);
 }
 .pbmit-btn-white{
 	color: var(--pbmit-global-color);
@@ -350,7 +350,7 @@ INDEX:
 	background-color: var(--pbmit-global-color);
 }
 .pbmit-btn-outline:hover{
-	border-color: var(--pbmit-blackish-color);
+	border-color: var(--pbmit-global-color);
 }
 .pbmit-btn-outline:hover .pbmit-button-text:before{
 	color: var(--pbmit-blackish-color);
@@ -401,10 +401,10 @@ INDEX:
 /* 02 - Background Color 
 /*----------------------------------------*/
  body .pbmit-bg-color-global{
-     background-color: var(--pbmit-global-color);
+     background-color: #333;
 }
  body .pbmit-bg-color-secondary{
-     background-color: var(--pbmit-secondary-color);
+     background-color: var(--pbmit-blackish-color);
 }
  body .pbmit-bg-color-blackish{
      background-color: var(--pbmit-blackish-color);
@@ -508,9 +508,9 @@ ul.pbmit-contact-info{
      position: relative;
 }
  .site-header .site-branding img {
-     max-width: 100%;
+     max-width: 400px;
      height: auto;
-     max-height: 45px;
+     max-height: 60px;
 	 display: inline-block;
      -webkit-transition: all 300ms ease;
      transition: all 300ms ease;
@@ -531,7 +531,7 @@ ul.pbmit-contact-info{
 .main-menu .navigation > li > ul a{
 	position: relative;
     display: table-cell;
-	/* font-family: var(--pbmit-body-typography-font-family); */
+	font-family: var(--pbmit-body-typography-font-family);
     font-weight: 500;
     font-size: 13px;
     line-height: 23px;
@@ -541,6 +541,21 @@ ul.pbmit-contact-info{
     color: var(--pbmit-blackish-color);
 }
 .main-menu .navigation > li > ul a:after{
+	display: none;
+}
+.main-menu .navigation > li > ul span{
+	position: relative;
+    display: table-cell;
+	font-family: var(--pbmit-body-typography-font-family);
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0px;
+	text-transform: none;
+    font-style: normal;
+    color: var(--pbmit-blackish-color);
+}
+.main-menu .navigation > li > ul span:after{
 	display: none;
 }
  .site-navigation ul.navigation a{

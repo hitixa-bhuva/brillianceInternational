@@ -1,0 +1,55 @@
+
+.our-experinence-subtext{
+    border-left: 3px solid #e81840;
+    border-radius: 5px;
+    padding: 5px;
+}
+.productsEnquiryForm .svgIcon{
+    position: absolute; left: 25px; top: 35%; transform: translateY(-50%); z-index: 2;
+}
+.productsEnquiryForm .form-control{
+    padding-left: 45px;
+}
+.productsEnquiryForm .product_category{
+    color: #666;  padding-left: 45px; border: 1px solid #666;
+}
+.productsEnquiryForm .AdditionalsvgIcon{
+    position: absolute; left: 27px; top: 20px; z-index: 2;
+}
+.productsEnquiryForm .produtcCategroysvgIcon{
+    position: absolute; right: 25px; top: 50%; transform: translateY(-50%); pointer-events: none; z-index: 2;
+}
+.productsEnquiryForm .produtcCategroysvgIconbox{
+        position: absolute;
+    left: 22px;
+    top: 46%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+.pbminfotech-box-desc ul{
+    padding-left: 20px; list-style-type: disc; color: #000;
+}
+.pbmit-content-wrapper span{
+    color: #e81840;
+}
+.footer-white-logo{
+    width: 250px;
+}
+
+.pbmit-footer-widget-area ul.menu li {
+  position: relative;
+  padding-left: 20px; /* space for icon */
+  margin-bottom: 10px;
+}
+
+/* Custom bullet icon using before */
+.pbmit-footer-widget-area ul.menu li::before {
+  content: "•"; /* bullet, you can use any icon or Unicode */
+  position: absolute;
+  left: 0;
+  color: #e81840; /* or any accent color */
+  font-size: 18px;
+  line-height: 1;
+  top: 50%;
+  transform: translateY(-50%);
+}

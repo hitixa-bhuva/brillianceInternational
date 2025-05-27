@@ -38,7 +38,7 @@
 .pbmit-heading-subheading .pbmit-subtitle{
 	font-family: var(--pbmit-heading-typography-font-family);
     font-weight: 600;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 23px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -50,7 +50,7 @@
 }
 .pbmit-heading-subheading .pbmit-title{
 	font-weight: 600;
-    font-size: 64px;
+    font-size: 57px;
     line-height: 64px;
     color: var(--pbmit-heading-color);
     text-transform: none;
@@ -487,10 +487,10 @@
   right: 0;
   bottom: 0;
   content: "";
-  border-radius: 50%;
+  border-radius: 50%;	
   z-index: -1;
   transform: scale(0);
-  background-color: var(--pbmit-blackish-color);
+  background-color: var(--pbmit-global-color);
   transition: all 200ms linear;
 }
 .pbmit-ihbox-style-6:hover .pbmit-icon-type-icon::after,
@@ -793,7 +793,11 @@
 .pbmit-team-style-1 .pbmit-featured-wrap{
 	position: relative;
 	overflow: hidden;
+	height: 300px;
 	border-radius: 30px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .pbmit-team-style-1 .pbminfotech-post-item{
 	position: relative;
@@ -812,9 +816,14 @@
 	position: relative;
 }
 .pbmit-team-style-1 .pbmit-featured-wrapper img{
-	width: 100%;
+	width: 80%;
 	border-radius: 30px;
 	transition: all .3s ease-out;
+}
+.pbmit-featured-wrapper-Credentials{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 .pbmit-team-style-1:hover .pbmit-featured-wrapper img{
 	-webkit-transform: scale(1.05);
@@ -1570,7 +1579,7 @@
 }
 .pbmit-service-style-3 .pbmit-service-image-wrapper{
 	border-radius: 30px;
-	height: 210px;
+	height: 290px;
 	object-fit: cover;
     transition: all .25s ease-in-out;
     -moz-transition: all .25s ease-in-out;
@@ -1581,7 +1590,7 @@
     position: absolute;
     left: 0;
     right: 0;
-    height: 210px;
+    height: 400px;
     bottom: 0;
     top: auto;
     object-fit: cover;
@@ -1592,7 +1601,7 @@
 }
 .pbmit-service-style-3.pbmit-active .pbmit-service-image-wrapper img,
 .pbmit-service-style-3:hover .pbmit-service-image-wrapper img{
-	height: 360px;
+	height: 460px;
 }
 .pbmit-service-style-3 .pbmit-service-description p{
 	display: -webkit-box;
@@ -1637,7 +1646,7 @@
     transition:  all .9s ease;
 }
 .pbmit-service-style-3 .pbmit-featured-wrapper{ 
-    mix-blend-mode: luminosity;
+    mix-blend-mode: normal;
     -webkit-transition: all .9s ease;
     transition:  all .9s ease;
 }
@@ -2594,7 +2603,7 @@
 /*  09 - Title Bar
 /*----------------------------------------*/
 .pbmit-title-bar-wrapper{
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(232, 24, 64, 0.2);
 	background-image: url(../images/bg/titlebar.jpg);
 	background-repeat: no-repeat;
     background-position: center center;
@@ -2603,6 +2612,7 @@
 	position: relative;
     z-index: 2;
 }
+
 .pbmit-title-bar-wrapper,
 .pbmit-title-bar-content{
 	min-height: 590px;
@@ -2615,7 +2625,8 @@
     top: 0;
     left: 0;
     z-index: 0;
-    background: linear-gradient(to right, rgba(0, 36, 74, 0.5) 50%, rgba(0, 36, 74, 0) 100%);
+   background: linear-gradient(to right, rgb(0 0 0 / 59%) 50%, rgb(156 81 96 / 0%) 100%);
+
 }
 .pbmit-title-bar-content{
 	position: relative;
@@ -3101,7 +3112,7 @@
 }
 /** Slider 01 **/
 .pbmit-slider-one .pbmit-slider-item{
-	height: 900px;
+	height: 800px;
 	display: flex;
 	align-items: end;
 }
@@ -3965,12 +3976,12 @@
 	font-size: 0;
 }
 .pbmit-element-static-box-style-2 .pbmit-static-box-title h5{
-	font-size: 18px;
+	font-size: 15px;
 	line-height: 28px;
 	margin-bottom: 20px;
 }
 .pbmit-element-static-box-style-2 .pbmit-static-box-number .pbmit-box-number{
-	font-size: 60px;
+	font-size: 40px;
 	line-height: 70px;
     margin-bottom: 0;
     font-weight: 500;
@@ -3987,7 +3998,7 @@
 	width: 200px;
 }
 .pbmit-element-static-box-style-2 .pbmit-content-box{
-	width: 290px;
+	width: 450px;
 }
 .pbmit-element-static-box-style-2 .swiper-static-slide-images img{
 	height: 450px;
@@ -4091,7 +4102,7 @@
 	-ms-animation-timing-function: linear;
 	-o-animation-timing-function: linear;
 	animation-timing-function: linear;	
-	fill: var(--pbmit-blackish-color);
+	fill: #ffffff;
     transform-origin: 50% 50% 0;
     transform: rotate(0deg);
     font-size: 15px;
