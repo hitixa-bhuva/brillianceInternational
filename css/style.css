@@ -92,7 +92,7 @@ body {
 	margin-top: 45px;
 }
 .contact-one-left-bg{
-	background-image: url(../images/homepage-1/bg/contact-bg.jpg);
+	background-image: url(../images/product/contac.webp);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -105,7 +105,7 @@ body {
     background-position: bottom right;
     background-repeat: no-repeat;
 	border-radius: 30px;
-	padding: 100px 90px;
+	padding: 50px 40px;
 	position: relative;
 	margin-left: 15px;
 }

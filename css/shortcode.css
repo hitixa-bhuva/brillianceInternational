@@ -2469,7 +2469,9 @@
     background-attachment: scroll;
 	color: rgba(var(--pbmit-white-color-rgb), 1);
 	margin: 0 20px;
-	padding-top: 100px;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
 	border-radius: 30px;
 	font-size: 14px;
 	position: relative;
@@ -2772,7 +2774,7 @@
 	background-color: transparent;
 }
 .accordion-item .pbmit-accordion-title{
-    font-size: 32px;
+    font-size: 28px;
     line-height: 42px;
 	font-weight: 500;
 }

@@ -1,0 +1,39 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+
+
+# Define custom error pages
+ErrorDocument 404 /error-404.html	
+
+# Rewrite rules for clean URLs
+RewriteRule ^about-us$ about-us.php [L,NC]
+RewriteRule ^castor$ castor.php [L,NC]
+RewriteRule ^chickpeas$ chickpeas.php [L,NC]
+RewriteRule ^contact-us$ contact-us.php [L,NC]
+RewriteRule ^corianderpowder$ corianderpowder.php [L,NC]
+RewriteRule ^corn$ corn.php [L,NC]
+RewriteRule ^cotton$ cotton.php [L,NC]
+RewriteRule ^credentials$ Credentials.php [L,NC]
+RewriteRule ^cuminpowder$ cuminpowder.php [L,NC]
+RewriteRule ^cuminseed$ cuminSeed.php [L,NC]
+RewriteRule ^drinkingwater$ drinkingwater.php [L,NC]
+RewriteRule ^fennelseed$ fennelSeed.php [L,NC]
+RewriteRule ^garlic$ garlic.php [L,NC]
+RewriteRule ^gingerpowder$ gingerpowder.php [L,NC]
+RewriteRule ^global-market$ GlobalMarket.php [L,NC]
+RewriteRule ^home$ index.php [L,NC]
+RewriteRule ^kitchensink$ kitchensink.php [L,NC]
+RewriteRule ^louvers$ louvers.php [L,NC]
+RewriteRule ^onion$ onion.php [L,NC]
+RewriteRule ^peanuts$ peanuts.php [L,NC]
+RewriteRule ^potato$ potato.php [L,NC]
+RewriteRule ^products-enquiry$ ProductsEnquiry.php [L,NC]
+RewriteRule ^redchilipowder$ redchilipowder.php [L,NC]
+RewriteRule ^rice$ rice.php [L,NC]
+RewriteRule ^sesame$ sesame.php [L,NC]
+RewriteRule ^tileadhesive$ tileadhesive.php [L,NC]
+RewriteRule ^turmericpowder$ turmericpowder.php [L,NC]
+RewriteRule ^wheat$ wheat.php [L,NC]
+
