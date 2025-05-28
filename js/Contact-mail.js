@@ -1,3 +1,30 @@
+const contactform = document.getElementById("contact-Inquiry-form");
+contactform.addEventListener("submit", function (event) {
+    event.preventDefault();
+    console.log("Form submitted event triggered.");
+
+    // Gather data from the form
+ // Accessing the form field values
+const name = document.getElementById("name").value;
+const email = document.getElementById("email").value;
+const phone = document.getElementById("phone").value;
+const subject = document.getElementById("subject").value;
+const Message = document.getElementById("message").value;
+
+
+console.log("Collected form data:", { name, email, phone, subject, message });
+
+
+    // Create email data
+    const emailData = {
+        "Host": "216.10.241.228",
+        "Port": "587",
+        "SMTPSecure": "ssl",
+        "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
+        "SenderEmailPassword": "1f1UOc{3U*64",  
+        "ReciverEmail": "patelhitixa4439@gmail.com",
+        "Subject": subject,
+        "Body": `
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -197,7 +224,7 @@
         }
         
         /* Mobile */
-        @media (max-width: 600px) {
+        @media (max-width: 768px) {
             body {
                 padding: 10px;
             }
@@ -260,7 +287,6 @@
     <div class="container">
         <!-- Header -->
         <div class="header">
-            <div class="logo">COMPANY LOGO</div>
             <h1 class="company-name">Brilliance International</h1>
             <div class="tagline">🌶️ Premium Spices & Seeds Exporter 🌿</div>
         </div>
@@ -284,23 +310,19 @@
                 <div class="info-box">
                     <div class="info-row">
                         <div class="label">Name:</div>
-                        <div class="value">{{CUSTOMER_NAME}}</div>
+                        <div class="value">${name}</div>
                     </div>
                     <div class="info-row">
                         <div class="label">Email:</div>
-                        <div class="value">{{CUSTOMER_EMAIL}}</div>
+                        <div class="value">${email}</div>
                     </div>
                     <div class="info-row">
                         <div class="label">Phone:</div>
-                        <div class="value">{{CUSTOMER_PHONE}}</div>
+                        <div class="value">${phone}</div>
                     </div>
                     <div class="info-row">
-                        <div class="label">Category:</div>
-                        <div class="value"><span class="product-highlight">{{PRODUCT_CATEGORY}}</span></div>
-                    </div>
-                    <div class="info-row">
-                        <div class="label">Product:</div>
-                        <div class="value"><strong>{{PRODUCT_NAME}}</strong></div>
+                        <div class="label">Subject:</div>
+                        <div class="value"><span class="product-highlight">${subject}</span></div>
                     </div>
                 </div>
             </div>
@@ -309,40 +331,19 @@
             <div class="section">
                 <h3>Buyer's Message</h3>
                 <div class="message-box">
-                    <div class="message-text">{{CUSTOMER_MESSAGE}}</div>
+                    <div class="message-text">${message}</div>
                 </div>
             </div>
             
             <!-- Actions -->
             <div class="actions">
-                <a href="mailto:{{CUSTOMER_EMAIL}}" class="btn">📧 Reply Now</a>
-                <a href="tel:{{CUSTOMER_PHONE}}" class="btn btn-secondary">📞 Call</a>
+                <a href="mailto:${email}" class="btn">📧 Reply Now</a>
+                <a href="tel:${phone}" class="btn btn-secondary">📞 Call</a>
             </div>
         </div>
         
         <!-- Footer -->
         <div class="footer">
-            <h4>Brilliance International</h4>
-            
-            <div class="contact-info">
-                <div class="contact-group">
-                    <p><strong>📧 Email</strong></p>
-                    <p>export@brillianceinternational.com</p>
-                    <p>sales@brillianceinternational.com</p>
-                </div>
-                
-                <div class="contact-group">
-                    <p><strong>📞 Phone</strong></p>
-                    <p>+91 79 2589 3456</p>
-                    <p>WhatsApp: +91 98765 43210</p>
-                </div>
-                
-                <div class="contact-group">
-                    <p><strong>📍 Address</strong></p>
-                    <p>Spice Market, Ahmedabad</p>
-                    <p>Gujarat, India - 380001</p>
-                </div>
-            </div>
             
             <div class="footer-note">
                 This is an automated notification for export inquiries.<br>
@@ -352,3 +353,155 @@
     </div>
 </body>
 </html>
+
+    `,
+    };
+
+    console.log("Email data prepared:", emailData);
+
+    const apiUrl = "./Mail/test.php";
+    const headers = {
+        "Content-Type": "application/json",
+    };
+
+    console.log("API URL:", apiUrl);
+
+    function toggleClassForField(fieldId, className, duration) {
+        console.log(`Adding class ${className} to ${fieldId} for ${duration}ms`);
+        const field = document.getElementById(fieldId);
+        field.classList.add(className);
+        setTimeout(() => {
+            field.classList.remove(className);
+            console.log(`Removed class ${className} from ${fieldId}`);
+        }, duration);
+    }
+
+    console.log("Checking form validation...");
+
+    if (!name || !email || !phone || !subject || !message) {
+        console.log("Validation failed: Missing required fields.");
+    
+        if (!name) {
+            toggleClassForField('name', 'border-danger', 3000);
+        }
+        if (!message) {   // OPTIONAL: if you want to validate company name too
+            toggleClassForField('message', 'border-danger', 3000);
+        }
+        if (!subject) {
+            toggleClassForField('subject', 'border-danger', 3000);
+        }
+        if (!email) {
+            toggleClassForField('email', 'border-danger', 3000);
+        }
+        if (!phone) {
+            toggleClassForField('phone', 'border-danger', 3000);
+        }
+    
+        showFeedback('Please fill in all required fields.', 'col-12 text-center py-2 border-danger border text-danger mt-3');
+        return;
+    }
+    
+
+    console.log("Validating email...");
+    if (!isValidEmail(email)) {
+        console.log("Invalid email entered.");
+        showFeedback('Please enter a valid email address.', 'col-12 text-center border-1 py-2 border-info border text-info mt-3');
+        return;
+    }
+
+    console.log("Sending email request...");
+
+    const submitButton = document.getElementById("submit-button");
+submitButton.disabled = true;
+submitButton.innerHTML = 'Sending... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'; // Optional: show loading indicator
+
+    // Sending the email using fetch
+     fetch(apiUrl, {
+        method: "POST",
+        headers: headers,
+        body: JSON.stringify(emailData),
+    })
+    .then((response) => response.json())
+    .then((data) => {
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
+
+        if (data.status) {
+            console.log("Message sent successfully", data);
+            showFeedback(
+                "Message sent successfully",
+                "col-12 text-center border-1 my-2 py-2 border-primary border text-primary"
+            );
+            clearForm();
+        } else {
+            console.log("Server returned an error", data);
+            showFeedback(
+                "Message sending failed. Please try again later.",
+                "col-12 text-center border-1 py-2 border-danger border text-danger"
+            );
+            clearForm();
+        }
+    })
+    .catch((error) => {
+        console.error("Error while sending request:", error);
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
+        showFeedback(
+            "An error occurred while sending the message. Please try again later.",
+            "col-12 text-center border-1 py-2 border-danger border text-danger"
+        );
+    });
+});
+
+function isValidEmail(email) {
+    console.log("Checking email format...");
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const isValid = emailRegex.test(email);
+    console.log(`Email validation result for ${email}: ${isValid}`);
+    return isValid;
+}
+
+function showFeedback(message, type = "success") {
+    const toast = document.getElementById("toast");
+    const toastMessage = toast.querySelector(".toast-message");
+    const toastIcon = toast.querySelector(".toast-icon");
+    const toastProgress = toast.querySelector(".toast-progress");
+
+    // Customize icon and color based on type
+    if (type === "success") {
+        toastIcon.textContent = "✓";
+        toastIcon.style.color = "green";
+        toastProgress.style.backgroundColor = "green";
+    } else if (type === "error") {
+        toastIcon.textContent = "⚠";
+        toastIcon.style.color = "red";
+        toastProgress.style.backgroundColor = "red";
+    } else if (type === "info") {
+        toastIcon.textContent = "ℹ";
+        toastIcon.style.color = "blue";
+        toastProgress.style.backgroundColor = "blue";
+    }
+
+    toastMessage.textContent = message;
+
+    // Show toast
+    toast.classList.add("show");
+
+    // Animate progress bar and hide toast after 3s
+    toastProgress.style.width = "100%";
+    setTimeout(() => {
+        toast.classList.remove("show");
+        toastProgress.style.width = "0";
+    }, 3000);
+}
+
+
+function clearForm() {
+    console.log("Clearing form fields...");
+    document.getElementById('name').value = '';
+    document.getElementById('email').value = '';
+    document.getElementById('phone').value = '';
+    document.getElementById('subject').value = '';
+    document.getElementById('message').value = '';
+    console.log("Form reset successfully.");
+}

@@ -510,45 +510,45 @@
 	/*-------------------------------------
 		Contact form validator
 	-------------------------------------*/
-	if ( $.isFunction($.fn.validate) ) {
-		$("#contact-form").validate(); 
-	}
+	// if ( $.isFunction($.fn.validate) ) {
+	// 	$("#contact-form").validate(); 
+	// }
 
 
 	/*-------------------------------------
 		Send email via Ajax
 		Make sure you configure send.php file 
 	-------------------------------------*/
-    $("#contact-form").submit(function(){
+    // $("#contact-form").submit(function(){
  
-	if( $("#contact-form .doing-via-ajax").length == 0 ){
-		$("#contact-form").prepend('<input class="doing-via-ajax" type="hidden" name="doing-via-ajax" value="yes" />');;
-	}
+	// if( $("#contact-form .doing-via-ajax").length == 0 ){
+	// 	$("#contact-form").prepend('<input class="doing-via-ajax" type="hidden" name="doing-via-ajax" value="yes" />');;
+	// }
 	
-	if( $("#contact-form").valid() ){  // check if form is valid
+	// if( $("#contact-form").valid() ){  // check if form is valid
 	
-		$(".contact-form .message-status").html('');
-		$('.form-btn-loader').removeClass('d-none');
-		$('.contact-form button.pbmit-btn span:not(.form-btn-loader)').hide();
-		$('.contact-form button.pbmit-btn').attr("disabled", "disabled");
+	// 	$(".contact-form .message-status").html('');
+	// 	$('.form-btn-loader').removeClass('d-none');
+	// 	$('.contact-form button.pbmit-btn span:not(.form-btn-loader)').hide();
+	// 	$('.contact-form button.pbmit-btn').attr("disabled", "disabled");
 	
-		$.ajax( {
-		type: "POST",
-		url: "send-dummy.php",
-		data:$('#contact-form').serialize(),
-		success: function(cevap) {
-			$('.form-btn-loader').addClass('d-none');
-			$('.contact-form button.pbmit-btn span').show();
-			$(".contact-form button.pbmit-btn").removeAttr("disabled");
-			$(".contact-form .message-status").html(cevap);
-		}
-		});
+	// 	$.ajax( {
+	// 	type: "POST",
+	// 	url: "send-dummy.php",
+	// 	data:$('#contact-form').serialize(),
+	// 	success: function(cevap) {
+	// 		$('.form-btn-loader').addClass('d-none');
+	// 		$('.contact-form button.pbmit-btn span').show();
+	// 		$(".contact-form button.pbmit-btn").removeAttr("disabled");
+	// 		$(".contact-form .message-status").html(cevap);
+	// 	}
+	// 	});
 		
-	}
+	// }
  
-	return false;
+	// return false;
 	
-	});
+	// });
 
 	/*-------------------------------------
 		Masonry

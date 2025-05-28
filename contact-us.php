@@ -203,33 +203,26 @@
                               <h2 class="pbmit-title">Send a message to staff</h2>
                            </div>
                            <p>Your email address will not be published. Required fields are marked *</p>
-                           <form class="contact-form" method="post" id="contact-form" action="send.php">
+                           <form class=""  id="contact-Inquiry-form">
                               <div class="row">
                                  <div class="col-md-6">
-                                    <input type="text" class="form-control" placeholder="Your Name" name="name" required="">
+                                    <input type="text" class="form-control" placeholder="Your Name" name="name" id="name" required="">
                                  </div>
                                  <div class="col-md-6">
-                                    <input type="email" class="form-control" placeholder="Your Email" name="email" required="">
+                                    <input type="email" class="form-control" placeholder="Your Email" name="email" id="email" required="">
+                                 </div>
+                                 <div class="col-md-6"> 
+                                    <input type="tel" class="form-control" placeholder="Your Phone" name="phone" id="phone" required="">
                                  </div>
                                  <div class="col-md-6">
-                                    <input type="tel" class="form-control" placeholder="Your Phone" name="phone" required="">
-                                 </div>
-                                 <div class="col-md-6">
-                                    <input type="text" class="form-control" placeholder="Subject" name="subject" required="">
+                                    <input type="text" class="form-control" placeholder="Subject" name="subject" id="subject" required="">
                                  </div>
                                  <div class="col-md-12">
-                                    <textarea name="message" cols="40" rows="10" class="form-control" placeholder="Message" required=""></textarea>
-                                 </div>
-                                 <div class="col-md-12">
-                                    <div class="form-check">
-                                       <label class="form-check-label">
-                                       <input class="form-check-input" type="checkbox">
-                                       Save my name, email, and website in this browser for the next time I comment.
-                                       </label>
-                                    </div>
+                                    <textarea name="message" cols="40" rows="10" class="form-control" placeholder="Message"  id="message" required=""></textarea>
                                  </div>
                               </div>
-                              <button class="pbmit-btn submit my-4">
+                               <!-- <button type="submit" class="btn" id="submit-button">Send a mess  age <span></span></button> -->
+                              <button class="pbmit-btn submit my-4" type="submit" id="submit-button">
                                  <span class="pbmit-button-content-wrapper">
                                  <span class="pbmit-button-text">Get Cost Estimate</span>
                                  </span>
@@ -247,7 +240,15 @@
                                     </svg>
                                  </span>
                               </button>
-                              <div class="col-md-12 col-lg-12 message-status"></div>
+                              <!-- Toast container -->
+                              <div id="toast" class="custom-toast">
+                                <div class="toast-content">
+                                  <span class="toast-icon">✓</span>
+                                  <div class="toast-message">Message here</div>
+                                  <button class="toast-close" onclick="hideToast()">&times;</button>
+                                </div>
+                                <div class="toast-progress"></div>
+                              </div>
                            </form>
                         </div>
                      </div>
