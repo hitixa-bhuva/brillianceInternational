@@ -64,8 +64,7 @@
                            <div class="pbmit-fld-wrap">
                               <h4 class="pbmit-fid-inner">
                                  <span class="pbmit-fid-before"></span>
-                                 <span class="pbmit-number-rotate numinate completed" data-appear-animation="animateDigits" data-from="0" data-to="245" data-interval="10" data-before="" data-before-style="" data-after="" data-after-style="">245</span>
-                                 <span class="pbmit-fid"><span>+</span></span>
+                                 <span class="pbmit-fid"><span>245 +</span></span>
                               </h4>
                               <span class="pbmit-fid-title">Cargo Delivered Per<br>  Month</span>
                            </div>
@@ -274,7 +273,7 @@
                                     <div class="pbmit-fid-inner">
                                        <span class="pbmit-fid-before"></span>
                                        <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="85" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">85</span>
-                                       <span class="pbmit-fid"><span>%</span></span>
+                                       <span class="pbmit-fid"><span>+</span></span>
                                     </div>
                                  </div>
                               </div>
@@ -292,7 +291,7 @@
                                     <div class="pbmit-fid-inner">
                                        <span class="pbmit-fid-before"></span>
                                        <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="93" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">93</span>
-                                       <span class="pbmit-fid"><span>%</span></span>
+                                       <span class="pbmit-fid"><span>+</span></span>
                                     </div>
                                  </div>
                               </div>

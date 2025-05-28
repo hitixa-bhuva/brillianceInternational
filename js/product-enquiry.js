@@ -1,4 +1,41 @@
-<!DOCTYPE html>
+const productcontectform = document.getElementById("product-contect-form");
+productcontectform.addEventListener("submit", function (event) {
+    event.preventDefault();
+    console.log("Form submitted event triggered.");
+
+    // Gather data from the form
+ // Accessing the form field values
+const fullName = document.getElementById("fullName").value;
+const companyName = document.getElementById("companyName").value;
+const productCategory = document.getElementById("productCategory").value;
+const specificProduct = document.getElementById("specificProduct").value;
+const quantity = document.getElementById("quantity").value;
+const phoneNumber = document.getElementById("phoneNumber").value;
+const emailAddress = document.getElementById("emailAddress").value;
+const inquiryDate = document.getElementById("inquiryDate").value;
+const deliveryCity = document.getElementById("deliveryCity").value;
+const web = document.getElementById("web").value;
+const arrivalPort = document.getElementById("arrivalPort").value;
+const country = document.getElementById("country").value;
+const additionalMessage = document.getElementById("additionalMessage").value;
+const subject = document.getElementById("subject").value;
+
+
+console.log("Collected form data:", { fullName, companyName, productCategory, emailAddress, specificProduct , phoneNumber, inquiryDate, deliveryCity, web , arrivalPort , country, additionalMessage });
+
+
+    // Create email data
+    const emailData = {
+        "Host": "216.10.241.228",
+        "Port": "587",
+        "SMTPSecure": "ssl",
+        "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
+        "SenderEmailPassword": "1f1UOc{3U*64",  
+        "ReciverEmail": "patelhitixa4439@gmail.com",
+        "Subject": subject,
+        "Body": `
+
+        <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -468,47 +505,51 @@
                 <div class="details-grid">
                     <div class="detail-row">
                         <div class="detail-label">Buyer Name:</div>
-                        <div class="detail-value">{{CUSTOMER_NAME}}</div>
+                        <div class="detail-value">${fullName}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Company Name:</div>
-                        <div class="detail-value">{{CUSTOMER_NAME}}</div>
+                        <div class="detail-value">${companyName}</div>
                     </div>
                      <div class="detail-row">
                         <div class="detail-label">Product Category:</div>
-                        <div class="detail-value"><span class="product-category">{{PRODUCT_CATEGORY}}</span></div>
+                        <div class="detail-value"><span class="product-category">${specificProduct}</span></div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Specific Product:</div>
-                        <div class="detail-value"><span class="product-name">{{PRODUCT_NAME}}</span></div>
+                        <div class="detail-value"><span class="product-name">${specificProduct}</span></div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Quantity Required:</div>
-                        <div class="detail-value">{{QuantityRequired}}</div>
+                        <div class="detail-value">${quantity}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Email Address:</div>
-                        <div class="detail-value">{{CUSTOMER_EMAIL}}</div>
+                        <div class="detail-value">${emailAddress}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Phone Number:</div>
-                        <div class="detail-value">{{CUSTOMER_PHONE}}</div>
+                        <div class="detail-value">${phoneNumber}</div>
+                    </div>
+                    <div class="detail-row">
+                        <div class="detail-label">Subject:</div>
+                        <div class="detail-value">${subject}</div>
                     </div>
                    <div class="detail-row">
                         <div class="detail-label">Inquiry Date:</div>
-                        <div class="detail-value">{{CUSTOMER_PHONE}}</div>
+                        <div class="detail-value">${inquiryDate}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Web:</div>
-                        <div class="detail-value">{{INQUIRY_DATE}}</div>
+                        <div class="detail-value">${web}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Arrival Port:</div>
-                        <div class="detail-value">{{INQUIRY_DATE}}</div>
+                        <div class="detail-value">${arrivalPort}</div>
                     </div>
                     <div class="detail-row">
                         <div class="detail-label">Country:</div>
-                        <div class="detail-value">{{INQUIRY_DATE}}</div>
+                        <div class="detail-value">${country}</div>
                     </div>
                 </div>
             </div>
@@ -517,15 +558,15 @@
             <div class="message-section">
                 <h2 class="section-title">Buyer's Message & Requirements</h2>
                 <div class="message-content">
-                    <div class="message-text">{{CUSTOMER_MESSAGE}}</div>
+                    <div class="message-text">${additionalMessage}</div>
                 </div>
             </div>
             
             <!-- Action Buttons -->
             <div class="action-section">
                 <div class="action-buttons">
-                    <a href="mailto:{{CUSTOMER_EMAIL}}" class="action-button">📧 Reply to Buyer</a>
-                    <a href="tel:{{CUSTOMER_PHONE}}" class="action-button secondary">📞 Call Now</a>
+                    <a href="mailto:${emailAddress}" class="action-button">📧 Reply to Buyer</a>
+                    <a href="tel:${phoneNumber}" class="action-button secondary">📞 Call Now</a>
                 </div>
             </div>
         </div>
@@ -543,3 +584,230 @@
     </div>
 </body>
 </html>
+
+    `,
+    };
+
+    console.log("Email data prepared:", emailData);
+
+    const apiUrl = "./Mail/test.php";
+    const headers = {
+        "Content-Type": "application/json",
+    };
+
+    console.log("API URL:", apiUrl);
+
+    function toggleClassForField(fieldId, className, duration) {
+        console.log(`Adding class ${className} to ${fieldId} for ${duration}ms`);
+        const field = document.getElementById(fieldId);
+        field.classList.add(className);
+        setTimeout(() => {
+            field.classList.remove(className);
+            console.log(`Removed class ${className} from ${fieldId}`);
+        }, duration);
+    }
+
+    console.log("Checking form validation...");
+
+    if (!fullName || !companyName || !productCategory || !specificProduct || !quantity || !phoneNumber || !emailAddress || !inquiryDate || !deliveryCity || !web || !arrivalPort || !country || !additionalMessage) {
+        console.log("Validation failed: Missing required fields.");
+    
+        if (!fullName) {
+            toggleClassForField('fullName', 'border-danger', 3000);
+        }
+        if (!phoneNumber) {
+            toggleClassForField('phoneNumber', 'border-danger', 3000);
+        }
+        if (!emailAddress) {
+            toggleClassForField('emailAddress', 'border-danger', 3000);
+        }
+        if (!inquiryDate) {
+            toggleClassForField('inquiryDate', 'border-danger', 3000);
+        }
+        if (!deliveryCity) {
+            toggleClassForField('deliveryCity', 'border-danger', 3000);
+        }
+        if (!web) {
+            toggleClassForField('web', 'border-danger', 3000);
+        }
+        if (!additionalMessage) {
+            toggleClassForField('additionalMessage', 'border-danger', 3000);
+        }
+        if (!arrivalPort) {
+            toggleClassForField('arrivalPort', 'border-danger', 3000);
+        }
+        if (!country) {
+            toggleClassForField('country', 'border-danger', 3000);
+        }
+        if (!quantity) {   // OPTIONAL: if you want to validate company name too
+            toggleClassForField('quantity', 'border-danger', 3000);
+        }
+        if (!specificProduct) {
+            toggleClassForField('specificProduct', 'border-danger', 3000);
+        }
+        if (!companyName) {
+            toggleClassForField('companyName', 'border-danger', 3000);
+        }
+        if (!productCategory) {
+            toggleClassForField('productCategory', 'border-danger', 3000);
+        }
+    
+        showProductToast('Please fill in all required fields.', 'col-12 text-center py-2 border-danger border text-danger mt-3');
+        return;
+    }
+    
+
+    console.log("Validating email...");
+    if (!isValidEmail(emailAddress)) {
+        console.log("Invalid email entered.");
+        showProductToast('Please enter a valid email address.', 'col-12 text-center border-1 py-2 border-info border text-info mt-3');
+        return;
+    }
+
+    console.log("Sending email request...");
+
+    const submitButton = document.getElementById("submit-button");
+submitButton.disabled = true;
+submitButton.innerHTML = 'Sending... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'; // Optional: show loading indicator
+
+    // Sending the email using fetch
+     fetch(apiUrl, {
+        method: "POST",
+        headers: headers,
+        body: JSON.stringify(emailData),
+    })
+    .then((response) => response.json())
+    .then((data) => {
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
+
+        if (data.status) {
+            console.log("Message sent successfully", data);
+            showProductToast(
+                "Message sent successfully",
+                "col-12 text-center border-1 my-2 py-2 border-primary border text-primary"
+            );
+            clearFormProduct();
+        } else {
+            console.log("Server returned an error", data);
+            showProductToast(
+                "Message sending failed. Please try again later.",
+                "col-12 text-center border-1 py-2 border-danger border text-danger"
+            );
+            clearFormProduct();
+        }
+    })
+    .catch((error) => {
+        console.error("Error while sending request:", error);
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
+        showProductToast(
+            "An error occurred while sending the message. Please try again later.",
+            "col-12 text-center border-1 py-2 border-danger border text-danger"
+        );
+    });
+});
+
+function isValidEmail(email) {
+    console.log("Checking email format...");
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const isValid = emailRegex.test(email);
+    console.log(`Email validation result for ${email}: ${isValid}`);
+    return isValid;
+}
+
+// Contact Toast
+function showContactToast(message, type = "success") {
+  const toast = document.getElementById("contact-toast");
+  const toastMessage = toast.querySelector(".toast-message");
+  const toastIcon = toast.querySelector(".toast-icon");
+  const toastProgress = toast.querySelector(".toast-progress");
+
+  if (type === "success") {
+    toastIcon.textContent = "✓";
+    toastIcon.style.color = "green";
+    toastProgress.style.backgroundColor = "green";
+  } else if (type === "error") {
+    toastIcon.textContent = "⚠";
+    toastIcon.style.color = "red";
+    toastProgress.style.backgroundColor = "red";
+  } else if (type === "info") {
+    toastIcon.textContent = "ℹ";
+    toastIcon.style.color = "blue";
+    toastProgress.style.backgroundColor = "blue";
+  }
+
+  toastMessage.textContent = message;
+  toast.classList.add("show");
+  toastProgress.style.width = "100%";
+
+  setTimeout(() => {
+    toast.classList.remove("show");
+    toastProgress.style.width = "0";
+  }, 3000);
+}
+
+function hideContactToast() {
+  const toast = document.getElementById("contact-toast");
+  const toastProgress = toast.querySelector(".toast-progress");
+  toast.classList.remove("show");
+  toastProgress.style.width = "0";
+}
+
+// Product Toast
+function showProductToast(message, type = "success") {
+  const toast = document.getElementById("product-toast");
+  const toastMessage = toast.querySelector(".toast-message");
+  const toastIcon = toast.querySelector(".toast-icon");
+  const toastProgress = toast.querySelector(".toast-progress");
+
+  if (type === "success") {
+    toastIcon.textContent = "✓";
+    toastIcon.style.color = "green";
+    toastProgress.style.backgroundColor = "green";
+  } else if (type === "error") {
+    toastIcon.textContent = "⚠";
+    toastIcon.style.color = "red";
+    toastProgress.style.backgroundColor = "red";
+  } else if (type === "info") {
+    toastIcon.textContent = "ℹ";
+    toastIcon.style.color = "blue";
+    toastProgress.style.backgroundColor = "blue";
+  }
+
+  toastMessage.textContent = message;
+  toast.classList.add("show");
+  toastProgress.style.width = "100%";
+
+  setTimeout(() => {
+    toast.classList.remove("show");
+    toastProgress.style.width = "0";
+  }, 3000);
+}
+
+function hideProductToast() {
+  const toast = document.getElementById("product-toast");
+  const toastProgress = toast.querySelector(".toast-progress");
+  toast.classList.remove("show");
+  toastProgress.style.width = "0";
+}
+
+
+
+function clearFormProduct() {
+    console.log("Clearing form fields...");
+    document.getElementById('fullName').value = '';
+    document.getElementById('companyName').value = '';
+    document.getElementById('productCategory').value = '';
+    document.getElementById('specificProduct').value = '';
+    document.getElementById('quantity').value = '';
+    document.getElementById('phoneNumber').value = '';
+    document.getElementById('emailAddress').value = '';
+    document.getElementById('deliveryCity').value = '';
+    document.getElementById('web').value = '';
+    document.getElementById('arrivalPort').value = '';
+    document.getElementById('country').value = '';
+    document.getElementById('additionalMessage').value = '';
+
+    console.log("Form reset successfully.");
+}

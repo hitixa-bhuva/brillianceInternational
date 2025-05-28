@@ -288,7 +288,7 @@
       </section>
       </div>
       <!-- Page Content End -->
-      
+
 <?php
    include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>
