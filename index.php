@@ -1182,7 +1182,7 @@
                </div>
             </div>
          </article>
-         <article class="pbmit-static-box-style-1">
+         <!-- <article class="pbmit-static-box-style-1">
             <div class="pbmit-staticbox-wrapper">
                <div class="pbmit-bg-imgbox col-md-6" style="
                   background-image: url(images/home/HowItWorks/DrinkingWater.jpg);
@@ -1207,7 +1207,7 @@
                   </div>
                </div>
             </div>
-         </article>
+         </article> -->
       </div>
    </div>
 		</section>
