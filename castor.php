@@ -60,7 +60,7 @@
             <ul class="pbmit-hover-inner">
                <li class="pbmit-title-wrapper">
                   <div class="pbmit-static-responsive-img">
-                     <img src="images/products/castor-seeds-01.jpg" alt="Castor Seeds">
+                     <img src="./images/product/product-details/Castor/slider/Castor-1.avif" alt="Castor Seeds">
                   </div>
                   <div class="pbmit-static-box-number">
                      <div class="pbmit-box-number">Product</div>
@@ -78,7 +78,7 @@
                </li>
                <li class="pbmit-title-wrapper">
                   <div class="pbmit-static-responsive-img">
-                     <img src="images/products/castor-seeds-02.jpg" alt="Key Details">
+                     <img src="./images/product/product-details/Castor/slider/Castor-2.avif" alt="Key Details">
                   </div>
                   <div class="pbmit-static-box-number">
                      <div class="pbmit-box-number">Details</div>
@@ -100,7 +100,7 @@
                </li>
                <li class="pbmit-title-wrapper">
                   <div class="pbmit-static-responsive-img">
-                     <img src="images/products/castor-seeds-03.jpg" alt="Quality & Packaging">
+                     <img src="./images/product/product-details/Castor/slider/Castor-3.avif" alt="Quality & Packaging">
                   </div>
                   <div class="pbmit-static-box-number">
                      <div class="pbmit-box-number">Quality</div>

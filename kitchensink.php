@@ -61,7 +61,7 @@
                   <ul class="pbmit-hover-inner">
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/kitchen-sink-01.jpg" alt="Kitchen Sink">
+                           <img src="./images/product/product-details/kitchenSink/slider/kitchenSink-1.avif" alt="Kitchen Sink">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Product</div>
@@ -81,7 +81,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/kitchen-sink-02.jpg" alt="Key Details">
+                           <img src="./images/product/product-details/kitchenSink/slider/kitchenSink-2.avif" alt="Key Details">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Details</div>
@@ -102,7 +102,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/kitchen-sink-03.jpg" alt="Quality & Packaging">
+                           <img src="./images/product/product-details/kitchenSink/slider/kitchenSink-3.jpg" alt="Quality & Packaging">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Quality</div>
@@ -242,43 +242,6 @@
                                     </div>
                                  </div>
                            </article>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-12 col-xl-12 pbmit-blog-group-right">
-                        <div class="row">
-                           <div class="col-md-12">
-                              <article class="pbmit-blog-style-2">
-                                 <div class="post-item">
-                                    <div class="pbminfotech-box-content">
-                                       <div class="pbmit-content-wrapper">
-                                          <h3 class="pbmit-post-title">
-                                             <span>Health Benefits</span>
-                                          </h3>
-                                          <div class="pbminfotech-box-desc">
-                                             <ul>
-                                                <li><b>Durability</b> – Built to withstand daily wear and tear with rust- and dent-resistant materials.</li>
-                                                <li><b>Hygienic & Easy to Clean</b> – Smooth surface prevents bacterial build-up and is easy to maintain.</li>
-                                                <li><b>Sound Dampening</b> – Comes with sound pads or coatings to reduce noise during use.</li>
-                                                <li><b>Versatile Designs</b> – Multiple configurations for different kitchen styles and requirements.</li>
-                                                <li><b>Elegant Aesthetics</b> – Sleek finishes complement modern kitchen interiors.</li>
-                                                <li><b>Customizable</b> – Tailored sizes and branding options for distributors or bulk buyers.</li>
-                                             </ul>
-                                          </div>
-                                       </div>
-                                       <div class="pbmit-blog-button-box">
-                                          <div class="pbmit-blog-button-wrapper">
-                                             <a class="pbmit-blog-btn" href="home"
-                                                title="The Guide On How to Ship Oversize Loads">
-                                             <span class="pbmit-button-icon">
-                                             <i class="pbmit-base-icon-pbmit-up-arrow"></i>
-                                             </span>
-                                             </a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </article>
                            </div>
                         </div>
                      </div>
