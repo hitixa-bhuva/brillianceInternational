@@ -265,43 +265,44 @@
                      </div>
                   </div>
                   <div class="row">
-                     <div class="col-md-6 mb-xl-0 mb-3">
-                        <div class="pbminfotech-ele-fid-style-1">
-                           <div class="pbmit-fld-contents d-flex align-items-center">
-                              <div class="pbmit-circle-outer" data-digit="85" data-fill="#e81840" data-emptyfill="" data-before="" data-before-type="sup" data-after="<span>%</span>" data-after-type="span" data-thickness="2" data-size="127">
-                                 <div class="pbmit-circle">
-                                    <div class="pbmit-fid-inner">
-                                       <span class="pbmit-fid-before"></span>
-                                       <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="85" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">85</span>
-                                       <span class="pbmit-fid"><span>+</span></span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="pbmit-fid-sub">
-                                 <h3 class="pbmit-fid-title">Product Categories Exported</h3>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-6">
-                        <div class="pbminfotech-ele-fid-style-1">
-                           <div class="pbmit-fld-contents d-flex align-items-center">
-                              <div class="pbmit-circle-outer" data-digit="85" data-fill="#e81840" data-emptyfill="" data-before="" data-before-type="sup" data-after="<span>%</span>" data-after-type="span" data-thickness="2" data-size="127">
-                                 <div class="pbmit-circle">
-                                    <div class="pbmit-fid-inner">
-                                       <span class="pbmit-fid-before"></span>
-                                       <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="93" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">93</span>
-                                       <span class="pbmit-fid"><span>+</span></span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="pbmit-fid-sub">
-                                 <h3 class="pbmit-fid-title">Tons Shipped Annually</h3>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+									<div class="col-md-6 mb-xl-0 mb-3">
+										<div class="pbminfotech-ele-fid-style-1">
+											<div class="pbmit-fld-contents d-flex align-items-center">
+												<div class="pbmit-circle-outer" data-digit="85" data-fill="#e81840" data-emptyfill="" data-before="" data-before-type="sup" data-after="<span>%</span>" data-after-type="span" data-thickness="2" data-size="127">
+													<div class="pbmit-circle"><canvas width="142" height="142" style="height: 127px; width: 127px;"></canvas>
+														<div class="pbmit-fid-inner">
+															<span class="pbmit-fid-before"></span>
+															<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="100" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">85</span>
+															<span class="pbmit-fid"><span>+</span></span>
+														</div>
+													</div>
+												</div>
+												<div class="pbmit-fid-sub">
+													<h3 class="pbmit-fid-title">Tons Shipped Annually</h3>
+												</div>
+											</div>		
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="pbminfotech-ele-fid-style-1">
+											<div class="pbmit-fld-contents d-flex align-items-center">
+												<div class="pbmit-circle-outer" data-digit="85" data-fill="#00358d" data-emptyfill="" data-before="" data-before-type="sup" data-after="&lt;span&gt;%&lt;/span&gt;" data-after-type="span" data-thickness="2" data-size="127">
+													<div class="pbmit-circle"><canvas width="142" height="142" style="height: 127px; width: 127px;"></canvas>
+														<div class="pbmit-fid-inner">
+															<span class="pbmit-fid-before"></span>
+															<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="93" data-interval="1" data-before="" data-before-style="" data-after="" data-after-style="">93</span>
+															<span class="pbmit-fid"><span>+</span></span>
+														</div>
+													</div>
+												</div>
+												<div class="pbmit-fid-sub">
+													<h3 class="pbmit-fid-title">Product Categories <br> Exportedss</h3>
+												</div>
+											</div>		
+										</div>
+									</div>
+								</div>
+                 
                   <ul class="list-group style-2 pt-5 mb-4">
                      <li class="list-group-item">
                         <span class="pbmit-icon-list-icon">

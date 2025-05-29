@@ -223,12 +223,13 @@
 /** Style 2 **/
 .pbmit-ihbox-style-2 .pbmit-ihbox-contents{
     display: flex;
+	justify-content: center;
     align-items: center;
     overflow: hidden;
 }
 .pbmit-ihbox-style-2 .pbmit-element-title{
     color: transparent;
-    font-size:60px;
+    font-size:50px;
     line-height:60px;
     margin: 0 40px 0 0;
     -webkit-text-size-adjust: 0;
