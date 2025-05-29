@@ -471,6 +471,10 @@
     .small-none-section{
       display: none !important;
     }
+    .pbmit-element-blog-style-2 .pbmit-blog-group-left .pbmit-post-title {
+    font-size: 16px;
+    line-height: 26px;
+}
     .small-block-section{
       display: block !important;
     }

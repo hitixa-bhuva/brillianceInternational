@@ -145,16 +145,17 @@ echo '
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
 											         <div class="menu-item">
-											            <span>Vegetables</span>
+							 				            <span>Vegetables</span>
 											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
 											         </div>
 											         <ul class="submenu">
 											            <li class="' ?><?php if ($page == "onion.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="onion">Onion</a></li>
-											            <li class="' ?><?php if ($page == "potato.php") {
+											        
+								 <li  class="' ?><?php if ($page == "potato.php") {
                                     echo 'active';
-                                } ?><?php echo '><a href="potato">Potato</a></li>
+                                } ?><?php echo '"><a href="potato">Potato</a></li>
 											            <li  class="' ?><?php if ($page == "garlic.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="garlic">Garlic</a></li>
@@ -182,10 +183,10 @@ echo '
 											   </ul>
 											</li>
 
-												<li class="' ?><?php if ($page == "Credentials.php") {
+												<li class="' ?><?php if ($page == "certifications.php") {
                                     echo 'active';
                                 } ?><?php echo '">
-													<a href="credentials">Credentials</a>
+													<a href="certifications">certifications</a>
 												</li>
 												<li class="' ?><?php if ($page == "GlobalMarket.php") {
                                     echo 'active';
