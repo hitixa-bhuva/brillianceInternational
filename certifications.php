@@ -1,7 +1,7 @@
 <?php
-   $Title = "Certifications & Global Credentials - Brilliance International";
+   $Title = "Certifications & Global certifications - Brilliance International";
    $MetaDescription = "Brilliance International is a globally recognized export company with certifications that ensure product quality, safety, and international compliance standards.";
-   $MetaKeywords = "Brilliance International certifications, export credentials, ISO certification, global trade compliance, quality assurance, export licenses, Indian exporter verified";
+   $MetaKeywords = "Brilliance International certifications, export certifications, ISO certification, global trade compliance, quality assurance, export licenses, Indian exporter verified";
 ?>
    
 <?php
@@ -15,7 +15,7 @@
                      <div class="pbmit-title-bar-content-inner">
                         <div class="pbmit-tbar">
                            <div class="pbmit-tbar-inner container">
-                              <h1 class="pbmit-tbar-title"> Credentials</h1>
+                              <h1 class="pbmit-tbar-title"> certifications</h1>
                            </div>
                         </div>
                         <div class="pbmit-breadcrumb">
@@ -26,7 +26,7 @@
                               <span class="sep">
                               <i class="pbmit-base-icon-angle-right"></i>
                               </span>
-                              <span><span class="post-root post post-post current-item">Credentials</span></span>
+                              <span><span class="post-root post post-post current-item">certifications</span></span>
                            </div>
                         </div>
                      </div>
@@ -47,7 +47,7 @@
                            <div class="pbmit-featured-wrap">
                               <div class="pbmit-featured-inner">
                                  <div class="pbmit-featured-img-wrapper">
-                                    <div class="pbmit-featured-wrapper pbmit-featured-wrapper-Credentials">
+                                    <div class="pbmit-featured-wrapper pbmit-featured-wrapper-certifications">
                                        <img src="images/Credentials/fieo_logo-removebg-preview.webp" class="img-fluid" alt="">
                                     </div>
                                  </div>

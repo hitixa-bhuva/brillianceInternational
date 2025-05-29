@@ -94,7 +94,7 @@ echo
 									<ul class="menu">
 										<li><a href="home">Home</a></li>
 										<li><a href="about-us">About</a></li>
-										<li><a href="credentials">Credentials</a></li>
+										<li><a href="certifications">certifications</a></li>
 										<li><a href="products-enquiry">ProductsEnquiry</a></li>
 										<li><a href="global-market">Global Market</a></li>
 										<li><a href="contact-us">Contact Us</a></li>
