@@ -72,7 +72,7 @@
 .pbmit-base-icon-right-big:before { content: '\e80f'; } /* '' */
 .pbmit-base-icon-left-quote:before { content: '\e810'; } /* '' */
 .pbmit-base-icon-down-open-big:before { content: '\e811'; } /* '' */
-.pbmit-base-icon-up-open-big:before { content: '\e812'; } /* '' */
+.pbmit-base-icon-up-open-bigmain:before { content: '\e812'; } /* '' */
 .pbmit-base-icon-cancel:before { content: '\e813'; } /* '' */
 .pbmit-base-icon-angle-right:before { content: '\e814'; } /* '' */
 .pbmit-base-icon-arrow-right:before { content: '\e815'; } /* '' */

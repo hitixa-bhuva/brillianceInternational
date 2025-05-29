@@ -61,7 +61,7 @@
                   <ul class="pbmit-hover-inner">
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/peanuts-01.jpg" alt="Peanuts">
+                           <img src="./images/product/product-details/Peanuts/slider/Peanuts-1.avif" alt="Peanuts">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Product</div>
@@ -79,7 +79,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/peanuts-02.jpg" alt="Key Details">
+                           <img src="./images/product/product-details/Peanuts/slider/Peanuts-2.avif" alt="Key Details">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Details</div>
@@ -101,7 +101,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/peanuts-03.jpg" alt="Quality & Packaging">
+                           <img src="./images/product/product-details/Peanuts/slider/Peanuts-3.avif" alt="Quality & Packaging">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Quality</div>
@@ -145,7 +145,7 @@
                         <div class="swiper-slide" role="group" aria-label="3 / 3"
                            style="width: 640px; opacity: 0; transform: translate3d(-1280px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/Peanuts/slider/Peanuts-2.avif"
+                              src="./images/product/product-details/Peanuts/slider/Peanuts-3.avif"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                      </div>

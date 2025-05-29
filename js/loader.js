@@ -5,3 +5,10 @@
     setTimeout(() => loader.style.display = 'none', 500);
   });
 
+
+document.querySelectorAll('.dropdown .menu-item').forEach(item => {
+  item.addEventListener('click', function () {
+    const parent = this.closest('.dropdown');
+    parent.classList.toggle('open');
+  });
+});

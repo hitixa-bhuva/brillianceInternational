@@ -110,7 +110,6 @@ echo
 										<li><span>Tile Adhesive</span></li>
 										<li><span>Kitchen Sinks</span></li>
 										<li><span>Louvers & Accessories</span></li>
-										<li><span>Drinking Water</span></li>
 									</ul>
 								</aside>
 							</div>

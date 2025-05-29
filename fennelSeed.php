@@ -61,7 +61,7 @@
                   <ul class="pbmit-hover-inner">
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/fennel-seed-01.jpg" alt="Fennel Seed">
+                           <img src="./images/product/product-details/fennelSeed/slider/fennelSeed-1.jpg" alt="Fennel Seed">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Product</div>
@@ -79,7 +79,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/fennel-seed-02.jpg" alt="Key Details">
+                           <img src="./images/product/product-details/fennelSeed/slider/fennelSeed-2.jpg" alt="Key Details">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Details</div>
@@ -101,7 +101,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/fennel-seed-03.jpg" alt="Quality & Packaging">
+                           <img src="./images/product/product-details/fennelSeed/slider/fennelSeed-3.jpg" alt="Quality & Packaging">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Quality</div>

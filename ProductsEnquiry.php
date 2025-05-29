@@ -103,7 +103,6 @@
                                  <option class="text-dark" value="Tile Adhesive">Tile Adhesive</option>
                                  <option class="text-dark" value="Kitchen Sink">Kitchen Sink</option>
                                  <option class="text-dark" value="Louvers">Louvers</option>
-                                 <option class="text-dark" value="Drinking Water">Drinking Water</option>
                               </select>
                            </div>
                         </div>

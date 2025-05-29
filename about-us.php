@@ -760,26 +760,6 @@
                      </div>
                   </div>
                </article>
-               <!-- Slide6 -->
-               <article class="pbmit-portfolio-style-2 swiper-slide">
-                  <div class="pbminfotech-post-content">
-                     <div class="pbmit-featured-img-wrapper">
-                        <div class="pbmit-featured-wrapper">
-                           <img src="./images/about/slider/DrinkingWater.avif" class="" alt="DrinkingWater">
-                        </div>
-                     </div>
-                     <div class="pbminfotech-box-content">
-                        <div class="pbminfotech-titlebox">
-                           <div class="pbmit-port-cat">
-                              <a href="drinkingwater" rel="tag">Essential Commodities</a>
-                           </div>
-                           <h3 class="pbmit-portfolio-title">
-                              <a class="text-dark" href="drinkingwater">Drinking Water</a>
-                           </h3>
-                        </div>
-                     </div>
-                  </div>
-               </article>
             </div>
          </div>
       </div>

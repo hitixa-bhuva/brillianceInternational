@@ -54,9 +54,9 @@ echo '
                                 } ?><?php echo '">
 													<a href="about-us">About Us</a>
 												</li>
-												
-												<li class="dropdown ' ?><?php if ($page == "castor.php" || $page == "chickpeas.php" || $page == "corianderpowder.php" || $page == "corn.php" || $page == "cotton.php" || 
-    $page == "cuminpowder.php" || $page == "cuminSeed.php" || $page == "drinkingwater.php" || 
+
+											<li class="dropdown main-dropdown ' ?><?php if ($page == "castor.php" || $page == "chickpeas.php" || $page == "corianderpowder.php" || $page == "corn.php" || $page == "cotton.php" || 
+    $page == "cuminpowder.php" || $page == "cuminSeed.php" || 
     $page == "fennelSeed.php" || $page == "garlic.php" || $page == "gingerpowder.php" || 
     $page == "kitchensink.php" || $page == "louvers.php" || $page == "onion.php" || 
     $page == "peanuts.php" || $page == "potato.php" || $page == "redchilipowder.php" || 
@@ -64,140 +64,124 @@ echo '
     $page == "turmericpowder.php" || $page == "wheat.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
-													<a href="#">Products</a>
-													<ul>
-														<li class="dropdown ' ?><?php if ($page == "corianderpowder.php" || $page == "cuminpowder.php" || $page == "gingerpowder.php" || $page == "redchilipowder.php" || $page == "turmericpowder.php" ) {
+											   <a href="#">Products</a>
+											   <ul class="submenu">
+												  <li class="dropdown ' ?><?php if ($page == "corianderpowder.php" || $page == "cuminpowder.php" || $page == "gingerpowder.php" || $page == "redchilipowder.php" || $page == "turmericpowder.php" ) {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
-															<span>Spices</span>
-															<ul>
-																<li class="' ?><?php if ($page == "turmericpowder.php") {
+											         <div class="menu-item">
+											            <span>Spices</span>
+											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
+											         </div>
+											          <ul class="submenu">
+											            <li class="' ?><?php if ($page == "turmericpowder.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="turmericpowder">Turmeric Powder</a>
-																</li>
-																<li class="' ?><?php if ($page == "redchilipowder.php") {
+                                } ?><?php echo '"><a href="turmericpowder">Turmeric Powder</a></li>
+											            <li class="' ?><?php if ($page == "redchilipowder.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="redchilipowder">Red Chili Powder</a>
-																</li>
-																<li class="' ?><?php if ($page == "cuminpowder.php") {
+                                } ?><?php echo '"><a href="redchilipowder">Red Chili Powder</a></li>
+											            <li class="' ?><?php if ($page == "cuminpowder.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="cuminpowder">Cumin Powder</a>
-																</li>
-																<li class="' ?><?php if ($page == "corianderpowder.php") {
+                                } ?><?php echo '"><a href="cuminpowder">Cumin Powder</a></li>
+											            <li class="' ?><?php if ($page == "corianderpowder.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="corianderpowder">Coriander Powder</a>
-																</li>
-																<li class="' ?><?php if ($page == "gingerpowder.php") {
+                                } ?><?php echo '"><a href="corianderpowder">Coriander Powder</a></li>
+											            <li class="' ?><?php if ($page == "gingerpowder.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="gingerpowder">Ginger Powder</a>
-																</li>
-															</ul>
-														</li>
-														<li class="dropdown ' ?><?php if ($page == "castor.php" || $page == "cotton.php" || $page == "cuminSeed.php" || $page == "fennelSeed.php" ||$page == "peanuts.php" || $page == "sesame.php") {
+                                } ?><?php echo '"><a href="gingerpowder">Ginger Powder</a></li>
+											         </ul>
+											      </li>
+											      <li class="dropdown  ' ?><?php if ($page == "castor.php" || $page == "cotton.php" || $page == "cuminSeed.php" || $page == "fennelSeed.php" ||$page == "peanuts.php" || $page == "sesame.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
-															<span>Seeds</span>
-															<ul>
-																<li class="' ?><?php if ($page == "cuminSeed.php") {
+											         <div class="menu-item">
+											            <span>Seeds</span>
+											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
+											         </div>
+											         <ul class="submenu">
+											            <li class="' ?><?php if ($page == "cuminSeed.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="cuminseed">Cumin Seed</a>
-																</li>
-																<li class="' ?><?php if ($page == "fennelSeed.php") {
+                                } ?><?php echo '"><a href="cuminseed">Cumin Seed</a></li>
+											            <li class="' ?><?php if ($page == "fennelSeed.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="fennelseed">Fennel Seed</a>
-																</li>
-																<li class="' ?><?php if ($page == "peanuts.php") {
+                                } ?><?php echo '"><a href="fennelseed">Fennel Seed</a></li>
+											            <li class="' ?><?php if ($page == "peanuts.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="peanuts">Peanuts</a></li>
-																<li class="' ?><?php if ($page == "castor.php") {
+											            <li class="' ?><?php if ($page == "castor.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="castor">Castor</a></li>
-																<li class="' ?><?php if ($page == "cotton.php") {
+											            <li class="' ?><?php if ($page == "cotton.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="cotton">Cotton</a></li>
-																<li class="' ?><?php if ($page == "sesame.php") {
+											            <li class="' ?><?php if ($page == "sesame.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="sesame">Sesame</a></li>
-															</ul>
-														</li>
-														<li class="dropdown ' ?><?php if ( $page == "corn.php" || $page == "rice.php" || $page == "wheat.php") {
+											         </ul>
+											      </li>
+											      <li class="dropdown ' ?><?php if ( $page == "corn.php" || $page == "rice.php" || $page == "wheat.php") {
                                          echo 'active';
-                                     } ?><?php echo '" aria-current="page">
-															<span>Grains & Pulses</span>
-															<ul>
-																<li class="' ?><?php if ($page == "wheat.php") {
+                                     } ?><?php echo '">
+											         <div class="menu-item">
+											            <span>Grains & Pulses</span>
+											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
+											         </div>
+											         <ul class="submenu">
+											            <li class="' ?><?php if ($page == "wheat.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="wheat">Wheat</a></li>
-																<li class="' ?><?php if ($page == "rice.php") {
+											            <li class="' ?><?php if ($page == "rice.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="rice">Rice</a></li>
-																<li class="' ?><?php if ($page == "corn.php") {
+											            <li class="' ?><?php if ($page == "corn.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="corn">Corn</a></li>
-																<li class="' ?><?php if ($page == "chickpeas.php") {
+											            <li class="' ?><?php if ($page == "chickpeas.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="chickpeas">Chickpeas</a>
-																</li>
-															</ul>
-														</li>
-														<li class="dropdown ' ?><?php if ($page == "garlic.php" || $page == "onion.php" || $page == "potato.php") {
+                                } ?><?php echo '"><a href="chickpeas">Chickpeas</a></li>
+											         </ul>
+											      </li>
+											      <li class="dropdown ' ?><?php if ($page == "garlic.php" || $page == "onion.php" || $page == "potato.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
-															<span>Vegetables</span>
-															<ul>
-																<li class="' ?><?php if ($page == "onion.php") {
+											         <div class="menu-item">
+											            <span>Vegetables</span>
+											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
+											         </div>
+											         <ul class="submenu">
+											            <li class="' ?><?php if ($page == "onion.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="onion">Onion</a></li>
-																<li class="' ?><?php if ($page == "potato.php") {
+											            <li class="' ?><?php if ($page == "potato.php") {
                                     echo 'active';
-                                } ?><?php echo '"><a href="potato">Potato</a></li>
-																<li class="' ?><?php if ($page == "garlic.php") {
+                                } ?><?php echo '><a href="potato">Potato</a></li>
+											            <li  class="' ?><?php if ($page == "garlic.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="garlic">Garlic</a></li>
-															</ul>
-														</li>
-														<li class="dropdown ' ?><?php if ($page == "kitchensink.php" || $page == "louvers.php" ||  $page == "tileadhesive.php") {
+											         </ul>
+											      </li>
+											      <li class="dropdown ' ?><?php if ($page == "kitchensink.php" || $page == "louvers.php" ||  $page == "tileadhesive.php") {
                                          echo 'active';
-                                     } ?><?php echo '" aria-current="page">
-															<span>Building Materials</span>
-															<ul>
-																<li class="' ?><?php if ($page == "tileadhesive.php") {
+                                     } ?><?php echo '"  aria-current="page">
+											         <div class="menu-item">
+											            <span>Building Materials</span>
+											            <span class="arrow d-none"><i class="pbmit-base-icon-angle-right"></i></span>
+											         </div>
+											         <ul class="submenu">
+											            <li class="' ?><?php if ($page == "tileadhesive.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="tileadhesive">Tile Adhesive</a>
-																</li>
-																<li class="' ?><?php if ($page == "kitchensink.php") {
+                                } ?><?php echo '"><a href="tileadhesive">Tile Adhesive</a></li>
+											            <li class="' ?><?php if ($page == "kitchensink.php") {
                                     echo 'active';
-                                } ?><?php echo '">
-																	<a href="kitchensink">Kitchen Sink</a>
-																</li>
-																<li class="' ?><?php if ($page == "louvers.php") {
+                                } ?><?php echo '"><a href="kitchensink">Kitchen Sink</a></li>
+											            <li class="' ?><?php if ($page == "louvers.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="louvers">Louvers</a></li>
-															</ul>
-														</li>
-														<li class="dropdown ' ?><?php if ($page == "drinkingwater.php" ) {
-                                         echo 'active';
-                                     } ?><?php echo '" aria-current="page">
-															<span>Essential Commodities</span>
-															<ul>
-																<li class="' ?><?php if ($page == "drinkingwater.php") {
-                                    echo 'active';
-                                } ?><?php echo '>
-																	<a href="drinkingwater">Drinking Water</a>
-																</li>
-															</ul>
-														</li>
-													</ul>
-												</li>
+											         </ul>
+											      </li>
+											   </ul>
+											</li>
+
 												<li class="' ?><?php if ($page == "Credentials.php") {
                                     echo 'active';
                                 } ?><?php echo '">

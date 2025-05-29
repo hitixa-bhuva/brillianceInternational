@@ -62,7 +62,7 @@
                   <ul class="pbmit-hover-inner">
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/chickpeas-01.jpg" alt="Chickpeas">
+                           <img src="./images/product/product-details/Chickpeas/slider/Chickpeas-1.avif" alt="Chickpeas">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Product</div>
@@ -80,7 +80,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/chickpeas-02.jpg" alt="Key Details">
+                           <img src="./images/product/product-details/Chickpeas/slider/Chickpeas-2.avif" alt="Key Details">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Details</div>
@@ -102,7 +102,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="images/products/chickpeas-03.jpg" alt="Quality & Packaging">
+                           <img src="./images/product/product-details/Chickpeas/slider/Chickpeas-3.avif" alt="Quality & Packaging">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Quality</div>

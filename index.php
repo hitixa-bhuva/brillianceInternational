@@ -1063,37 +1063,6 @@
                   </div>
                </div>
             </article>
-            <!-- Slide4 -->
-            <article class="pbmit-service-style-3 swiper-slide">
-               <div class="pbminfotech-post-item">
-                  <div class="pbminfotech-box-content-desc-wraper">
-                     <div class="pbminfotech-box-content">
-                        <div class="pbmit-content-box">
-                           <div class="pbmit-serv-cat"></div>
-                           <h3 class="pbmit-service-title">
-                              <a href="drinkingwater"> Drinking Water </a>
-                           </h3>
-                        </div>
-                        <div class="pbmit-service-icon">
-                           <img src="./images/home/icon/water-bottle.png" alt="Drinking Wate" />
-                        </div>
-                     </div>
-                     <div class="pbmit-service-description">
-                        <p>Pure and safe hydration, every drop counts.</p>
-                     </div>
-                  </div>
-                  <div class="pbmit-service-image-wrapper">
-                     <div class="pbmit-featured-img-wrapper">
-                        <div class="pbmit-featured-wrapper">
-                           <a href="drinkingwater">
-                           <img src="./images/home/slider/DrinkingWate.avif"
-                              class="img-fluid w-100" alt="Drinking Wate" />
-                              </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </article>
          </div>
       </div>
    </div>
@@ -1540,7 +1509,7 @@
          </div>
       </div>
       <div class="accordion" id="accordionExample1">
-         <div class="accordion-item active" id="headingOne1">
+         <div class="accordion-item" id="headingOne1">
             <h2 class="accordion-header">
                <button class="accordion-button" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
