@@ -197,6 +197,11 @@ echo '
                                 } ?><?php echo '">
 													<a href="products-enquiry">Products Enquiry</a>
 												</li>
+												<li class="d-none small-block-section ' ?><?php if ($page == "contact-us.php") {
+                                    echo 'active';
+                                } ?><?php echo '">
+													<a href="contact-us">Contact Us</a>
+												</li>
 											</ul>
 										</div>
 									</div>

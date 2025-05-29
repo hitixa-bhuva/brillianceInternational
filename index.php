@@ -1464,7 +1464,7 @@
                <img src="images/homepage-3/ship.png" alt class="img-fluid" />
             </div>
          </div>
-         <div class="col-md-12 col-xl-3">
+         <div class="col-md-12 col-xl-3 small-none-section">
             <div class="pbmit-spinner-box-style-1">
                <div class="pbmit-ihbox-box">
                   <div class="pbmit-ihbox-icon">
