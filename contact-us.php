@@ -81,7 +81,7 @@
                                     <h2 class="pbmit-element-title">
                                        Our Location
                                     </h2>
-                                    <div class="pbmit-heading-desc">Radhe Mobile, Bus Stop, Mahendranagar, Morbi, Gujarat 363641
+                                    <div class="pbmit-heading-desc">F 30, Shivdhara Complex, Panchasar Road, Morbi - 363 641 (Gujarat)
                                     </div>
                                  </div>
                                  <div class="pbmit-ihbox-icon">
@@ -103,7 +103,7 @@
                               </div>
                               <div class="pbmit-btn-wrap">
                                  <div class="pbmit-ihbox-btn">
-                                    <a class="pbmit-button-inner" href="https://maps.app.goo.gl/phPYZDSSK7jWwanx6">
+                                    <a class="pbmit-button-inner" href="https://www.google.com/maps/search/?api=1&query=F+30,+Shivdhara+Complex,+Panchasar+Road,+Morbi+363641">
                                     <span class="pbmit-button-icon"></span>
                                     </a>
                                  </div>

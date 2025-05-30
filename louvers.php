@@ -8,7 +8,7 @@
    include __DIR__ . '/A_Layout/Header/header.php';
 ?>
          <!-- Title Bar -->
-         <div class="pbmit-title-bar-wrapper"  style="background-image: url(./images/banners/kitchenSink.avif);">
+         <div class="pbmit-title-bar-wrapper"  style="background-image: url(./images/banners/Louvers.png);">
             <div class="container">
                <div class="pbmit-title-bar-content">
                   <div class="pbmit-title-bar-content-inner">
@@ -61,7 +61,7 @@
                   <ul class="pbmit-hover-inner">
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="./images/product/product-details/louvers/slider/louvers-1.avif" alt="Louvers">
+                           <img src="./images/product/product-details/louvers/slider/louvers-1.png" alt="Louvers">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Product</div>
@@ -81,7 +81,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="./images/product/product-details/louvers/slider/louvers-2.avif" alt="Key Details">
+                           <img src="./images/product/product-details/louvers/slider/louvers-2.png" alt="Key Details">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Details</div>
@@ -102,7 +102,7 @@
                      </li>
                      <li class="pbmit-title-wrapper">
                         <div class="pbmit-static-responsive-img">
-                           <img src="./images/product/product-details/louvers/slider/louvers-3.jpg" alt="Quality & Packaging">
+                           <img src="./images/product/product-details/louvers/slider/louvers-3.png" alt="Quality & Packaging">
                         </div>
                         <div class="pbmit-static-box-number">
                            <div class="pbmit-box-number">Quality</div>
@@ -132,20 +132,20 @@
                            role="group" aria-label="1 / 3"
                            style="width: 640px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/louvers/slider/louvers-1.avif"
+                              src="./images/product/product-details/louvers/slider/louvers-1.png"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                         <div class="swiper-slide swiper-slide-next" role="group"
                            aria-label="2 / 3"
                            style="width: 640px; opacity: 0; transform: translate3d(-640px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/louvers/slider/louvers-2.avif"
+                              src="./images/product/product-details/louvers/slider/louvers-2.png"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                         <div class="swiper-slide" role="group" aria-label="3 / 3"
                            style="width: 640px; opacity: 0; transform: translate3d(-1280px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/louvers/slider/louvers-3.jpg"
+                              src="./images/product/product-details/louvers/slider/louvers-3.png"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                      </div>
@@ -168,7 +168,7 @@
                            <div class="pbmit-featured-img-wrapper">
                               <div class="pbmit-featured-wrapper">
                                  <img
-                                    src="./images/product/product-details/louvers/main.jpg"
+                                    src="./images/product/product-details/louvers/main.png"
                                     class="img-fluid" alt>
                               </div>
                            </div>

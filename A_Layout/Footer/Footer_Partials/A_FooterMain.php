@@ -127,7 +127,7 @@ echo
  							     </div>
  							     <div class="pbmit-contact-widget-line pbmit-base-icon-location">
  							       <span class="contact-icon"><i class="pbmit-base-icon-location"></i></span>
- 							       Morbi, Gujarat, India
+ 							       F 30, Shivdhara Complex, Panchasar Road, Morbi - 363 641 (Gujarat)
  							     </div>
  							   </div>
  							 </aside>
