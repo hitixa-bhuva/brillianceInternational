@@ -64,7 +64,7 @@
                            <div class="pbmit-fld-wrap">
                               <h4 class="pbmit-fid-inner">
                                  <span class="pbmit-fid-before"></span>
-                                 <span class="pbmit-fid"><span>245 +</span></span>
+                                 <span class="pbmit-fid"><span>100 +</span></span>
                               </h4>
                               <span class="pbmit-fid-title">Cargo Delivered Per<br>  Month</span>
                            </div>

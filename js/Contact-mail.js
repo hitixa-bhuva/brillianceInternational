@@ -20,8 +20,8 @@ console.log("Collected form data:", { name, email, phone, subject, message });
         "Host": "216.10.241.228",
         "Port": "587",
         "SMTPSecure": "ssl",
-        "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
-        "SenderEmailPassword": "1f1UOc{3U*64",  
+        "SenderEmail": "website@thebrillianceinternational.com",
+        "SenderEmailPassword": "8C=eB]$JX8J3",  
         "ReciverEmail": "patelhitixa4439@gmail.com",
         "Subject": subject,
         "Body": `
