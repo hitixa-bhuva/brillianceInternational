@@ -61,7 +61,7 @@ echo '
     $page == "kitchensink.php" || $page == "louvers.php" || $page == "onion.php" || 
     $page == "peanuts.php" || $page == "potato.php" || $page == "redchilipowder.php" || 
     $page == "rice.php" || $page == "sesame.php" || $page == "tileadhesive.php" || 
-    $page == "turmericpowder.php" || $page == "wheat.php") {
+    $page == "turmericpowder.php" || $page == "wheat.php" || $page == "tiles.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
 											   <a href="#">Products</a>
@@ -161,7 +161,7 @@ echo '
                                 } ?><?php echo '"><a href="garlic">Garlic</a></li>
 											         </ul>
 											      </li>
-											      <li class="dropdown ' ?><?php if ($page == "kitchensink.php" || $page == "louvers.php" ||  $page == "tileadhesive.php") {
+											      <li class="dropdown ' ?><?php if ($page == "kitchensink.php" || $page == "louvers.php" ||  $page == "tileadhesive.php" ||  $page == "tiles.php") {
                                          echo 'active';
                                      } ?><?php echo '"  aria-current="page">
 											         <div class="menu-item">
@@ -178,6 +178,9 @@ echo '
 											            <li class="' ?><?php if ($page == "louvers.php") {
                                     echo 'active';
                                 } ?><?php echo '"><a href="louvers">Louvers</a></li>
+								<li class="' ?><?php if ($page == "tiles.php") {
+                                    echo 'active';
+                                } ?><?php echo '"><a href="tiles">Tiles</a></li>
 											         </ul>
 											      </li>
 											   </ul>

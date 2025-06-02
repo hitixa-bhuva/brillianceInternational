@@ -33,6 +33,7 @@ RewriteRule ^redchilipowder$ redchilipowder.php [L,NC]
 RewriteRule ^rice$ rice.php [L,NC]
 RewriteRule ^sesame$ sesame.php [L,NC]
 RewriteRule ^tileadhesive$ tileadhesive.php [L,NC]
+RewriteRule ^tiles$ tiles.php [L,NC]
 RewriteRule ^turmericpowder$ turmericpowder.php [L,NC]
 RewriteRule ^wheat$ wheat.php [L,NC]
 

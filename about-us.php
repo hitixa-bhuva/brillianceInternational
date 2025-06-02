@@ -706,6 +706,26 @@
                   <div class="pbminfotech-post-content">
                      <div class="pbmit-featured-img-wrapper">
                         <div class="pbmit-featured-wrapper">
+                           <img src="./images/about/slider/tiles.avif" class="" alt="TileAdhesive">
+                        </div>
+                     </div>
+                     <div class="pbminfotech-box-content">
+                        <div class="pbminfotech-titlebox">
+                           <div class="pbmit-port-cat">
+                              <a href="tileadhesive" rel="tag">Building Materials</a>
+                           </div>
+                           <h3 class="pbmit-portfolio-title">
+                              <a class="text-dark" href="tileadhesive">Tiles</a>
+                           </h3>
+                        </div>
+                     </div>
+                  </div>
+               </article>
+               <!-- Slide6 -->
+               <article class="pbmit-portfolio-style-2 swiper-slide">
+                  <div class="pbminfotech-post-content">
+                     <div class="pbmit-featured-img-wrapper">
+                        <div class="pbmit-featured-wrapper">
                            <img src="./images/about/slider/TileAdhesive.avif" class="" alt="TileAdhesive">
                         </div>
                      </div>
@@ -746,7 +766,7 @@
                   <div class="pbminfotech-post-content">
                      <div class="pbmit-featured-img-wrapper">
                         <div class="pbmit-featured-wrapper">
-                           <img src="./images/about/slider/Louvers.jpg" class="" alt="Louvers">
+                           <img src="./images/about/slider/Louvers.png" class="" alt="Louvers">
                         </div>
                      </div>
                      <div class="pbminfotech-box-content">

@@ -65,7 +65,7 @@ echo
 									<p>  Brilliance International is a trusted global exporter based in Morbi, India. We specialize in premium agricultural products and quality construction materials, delivering excellence and reliability to over 20 countries worldwide.</p>
 									<br />
 									<ul class="pbmit-social-links">
-										<li class="pbmit-social-li pbmit-social-facebook">
+										<!-- <li class="pbmit-social-li pbmit-social-facebook">
 											<a title="Facebook" href="#" target="_blank">
 												<span><i class="pbmit-base-icon-facebook-f"></i></span>
 											</a>
@@ -74,14 +74,14 @@ echo
 											<a title="Twitter" href="#" target="_blank">
 												<span><i class="pbmit-base-icon-twitter-2"></i></span>
 											</a>
-										</li>
+										</li> -->
 										<li class="pbmit-social-li pbmit-social-linkedin">
-											<a title="LinkedIn" href="#" target="_blank">
+											<a title="LinkedIn" href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQH7y7D1eFWvJAAAAZcfwyB45cNEelGNY-jd-P0jpm9D7PkhucqEjFREHIHfPey-U56AKEJBOmP-ZpPEAGokdMhEsvYCfPeXmaQLl8Hsf1gTQFVfCD9Zg4jhSAv4LCwiO3OuSvs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthe-brilliance-international-a63856368%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="_blank">
 												<span><i class="pbmit-base-icon-linkedin-in"></i></span>
 											</a>
 										</li>
 										<li class="pbmit-social-li pbmit-social-instagram">
-											<a title="Instagram" href="#" target="_blank">
+											<a title="Instagram" href="https://www.instagram.com/the_brilliance_international/?igsh=eHlndmdxYXZzdjdy#" target="_blank">
 												<span><i class="pbmit-base-icon-instagram"></i></span>
 											</a>
 										</li>

@@ -1530,9 +1530,6 @@ body {
 		line-height: 30px;
 	}
 	
-	.small-none-section{
-		display: none !important;
-	}
 }
 
 @media(max-width:575px) {
