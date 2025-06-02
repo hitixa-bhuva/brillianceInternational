@@ -256,7 +256,7 @@
 <!-- Iframe -->
 <section class="contact-iframe-section">
 <div class="container-fluid p-0">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.0159579304895!2d70.85500429999999!3d22.8388991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39598d6a320039a9%3A0xe06a25c9a1477537!2sShiv%20complex!5e0!3m2!1sen!2sin!4v1748345807246!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>               
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3677.6020950276725!2d70.8135472753077!3d22.817203379318283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDQ5JzAxLjkiTiA3MMKwNDgnNTguMCJF!5e0!3m2!1sen!2sin!4v1748847407242!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </section>
 <!-- Iframe End-->
