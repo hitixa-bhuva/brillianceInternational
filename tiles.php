@@ -137,20 +137,20 @@
                            role="group" aria-label="1 / 3"
                            style="width: 640px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/Tiles/slider/tiles-1.avif"
+                              src="./images/product/product-details/tiles/slider/tiles-1.avif"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                         <div class="swiper-slide swiper-slide-next" role="group"
                            aria-label="2 / 3"
                            style="width: 640px; opacity: 0; transform: translate3d(-640px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/Tiles/slider/tiles-2.avif"
+                              src="./images/product/product-details/tiles/slider/tiles-2.avif"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                         <div class="swiper-slide" role="group" aria-label="3 / 3"
                            style="width: 640px; opacity: 0; transform: translate3d(-1280px, 0px, 0px);">
                            <img
-                              src="./images/product/product-details/Tiles/slider/tiles-3.avif"
+                              src="./images/product/product-details/tiles/slider/tiles-3.avif"
                               class="img-fluid" alt="Turmeric Powder">
                         </div>
                      </div>
@@ -220,8 +220,8 @@
                                     </div>
                                     <div class="pbmit-content-wrapper">
                                        <h3 class="pbmit-post-title">
-  <a href="blog-single-details.html">Tiles – Elegant & Durable Surface Solutions</a>
-</h3>   
+                                          <a href="blog-single-details.html">Tiles – Elegant & Durable Surface Solutions</a>
+                                        </h3>   
                                        <div class="pbminfotech-box-desc">
                                           Our premium tiles are designed to enhance spaces with style, strength, and easy maintenance. Available in ceramic, porcelain, and vitrified types, they suit both residential and commercial environments. Each tile is crafted for durability, slip resistance, and aesthetic appeal.
                                           <br><br>
