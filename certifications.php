@@ -43,55 +43,62 @@
                <div class="container">
                   <div class="row pbmit-element-posts-wrapper d-flex justify-content-center">
                      <article class="pbmit-team-style-1 col-md-4">
-                        <div class="pbminfotech-post-item">
-                           <div class="pbmit-featured-wrap">
-                              <div class="pbmit-featured-inner">
-                                 <div class="pbmit-featured-img-wrapper">
-                                    <div class="pbmit-featured-wrapper pbmit-featured-wrapper-certifications">
-                                       <img src="images/Credentials/fieo_logo-removebg-preview.webp" class="img-fluid" alt="">
-                                    </div>
+                         <div class="pbminfotech-post-item">
+                             <div class="pbmit-featured-wrap">
+                                 <div class="pbmit-featured-inner">
+                                     <div class="pbmit-featured-img-wrapper">
+                                         <div class="pbmit-featured-wrapper pbmit-featured-wrapper-certifications">
+                                             <img src="images/Credentials/fieo_logo-removebg-preview.webp" class="img-fluid" alt="">
+                                         </div>
+                                     </div>
                                  </div>
-                              </div>
-                           </div>
-                           <div class="pbminfotech-box-content">
-                              <div class="pbminfotech-box-content-inner">
-                                 <h3 class="pbmit-team-title">
-                                    <span>Federation Of Indian Export Organizations</span>
-                                 </h3>
-                                 <div class="pbminfotech-box-team-position">Registered Member</div>
-                              </div>
-                              <div class="pbmit-team-btn">
-                                 <a class="pbmit-team-text" href="#">
-                                 <i class="pbmit-base-icon-share"></i>
-                                 </a>
-                                 <div class="pbminfotech-box-social-links">
-                                    <ul class="pbmit-social-links pbmit-team-social-links">
-                                       <li class="pbmit-social-li pbmit-social-facebook">
-                                          <a href="#" title="Facebook" target="_blank">
-                                          <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-twitter">
-                                          <a href="#" title="Twitter" target="_blank">
-                                          <span><i class="pbmit-base-icon-twitter-2"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-linkedin">
-                                          <a href="#" title="LinkedIn" target="_blank">
-                                          <span><i class="pbmit-base-icon-linkedin-in"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-instagram">
-                                          <a href="#" title="Instagram" target="_blank">
-                                          <span><i class="pbmit-base-icon-instagram"></i></span>
-                                          </a>
-                                       </li>
-                                    </ul>
+                             </div>
+                             <div class="pbminfotech-box-content">
+                                 <div class="pbminfotech-box-content-inner">
+                                     <h3 class="pbmit-team-title">
+                                         <span>Federation Of Indian Export Organizations</span>
+                                     </h3>
+                                     <div class="pbminfotech-box-team-position">Registered Member</div>
                                  </div>
-                              </div>
-                           </div>
-                        </div>
+                                 <div class="pbmit-team-btn">
+                                     <a class="pbmit-team-text" href="#">
+                                         <i class="pbmit-base-icon-share"></i>
+                                     </a>
+                                     <div class="pbminfotech-box-social-links">
+                                         <ul class="pbmit-social-links pbmit-team-social-links">
+
+                                             <li class="pbmit-social-li pbmit-social-facebook">
+                                                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/images/dummy.pdf" title="Facebook" target="_blank">
+                                                     <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-twitter">
+                                                 <a href="https://twitter.com/intent/tweet?url=https://yourdomain.com/images/dummy.pdf&text=Check%20out%20our%20certification!" title="Twitter" target="_blank">
+                                                     <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-linkedin">
+                                                 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/images/dummy.pdf" title="LinkedIn" target="_blank">
+                                                     <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-whatsapp">
+                                                 <a href="https://wa.me/?text=https://yourdomain.com/pdfs/fieo_certificate.pdf" title="WhatsApp" target="_blank">
+                                                     <span><i class="pbmit-base-icon-whatsapp"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-instagram">
+                                                 <a href="images/dummy.pdf" title="Instagram" target="_blank" download>
+                                                     <span><i class="pbmit-base-icon-download"></i></span>
+                                                 </a>
+                                             </li>
+                                         </ul>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
                      </article>
+
                      <article class="pbmit-team-style-1 col-md-4">
                         <div class="pbminfotech-post-item">
                            <div class="pbmit-featured-wrap">
@@ -116,27 +123,89 @@
                                  </a>
                                  <div class="pbminfotech-box-social-links">
                                     <ul class="pbmit-social-links pbmit-team-social-links">
-                                       <li class="pbmit-social-li pbmit-social-facebook">
-                                          <a href="#" title="Facebook" target="_blank">
-                                          <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-twitter">
-                                          <a href="#" title="Twitter" target="_blank">
-                                          <span><i class="pbmit-base-icon-twitter-2"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-linkedin">
-                                          <a href="#" title="LinkedIn" target="_blank">
-                                          <span><i class="pbmit-base-icon-linkedin-in"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-instagram">
-                                          <a href="#" title="Instagram" target="_blank">
-                                          <span><i class="pbmit-base-icon-instagram"></i></span>
-                                          </a>
-                                       </li>
-                                    </ul>
+
+                                             <li class="pbmit-social-li pbmit-social-facebook">
+                                                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/images/dummy.pdf" title="Facebook" target="_blank">
+                                                     <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-twitter">
+                                                 <a href="https://twitter.com/intent/tweet?url=https://yourdomain.com/images/dummy.pdf&text=Check%20out%20our%20certification!" title="Twitter" target="_blank">
+                                                     <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-linkedin">
+                                                 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/images/dummy.pdf" title="LinkedIn" target="_blank">
+                                                     <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-whatsapp">
+                                                 <a href="https://wa.me/?text=https://yourdomain.com/pdfs/fieo_certificate.pdf" title="WhatsApp" target="_blank">
+                                                     <span><i class="pbmit-base-icon-whatsapp"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-instagram">
+                                                 <a href="images/dummy.pdf" title="Instagram" target="_blank" download>
+                                                     <span><i class="pbmit-base-icon-download"></i></span>
+                                                 </a>
+                                             </li>
+                                         </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </article>
+                      <article class="pbmit-team-style-1 col-md-4">
+                        <div class="pbminfotech-post-item">
+                           <div class="pbmit-featured-wrap">
+                              <div class="pbmit-featured-inner">
+                                 <div class="pbmit-featured-img-wrapper">
+                                    <div class="pbmit-featured-wrapper pbmit-featured-wrapper-Credentials">
+                                       <img src="images/Credentials/iso-removebg-preview.webp" class="img-fluid" style="width: 60%;" alt="iso">
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="pbminfotech-box-content">
+                              <div class="pbminfotech-box-content-inner">
+                                 <h3 class="pbmit-team-title">
+                                    <span>ISO 9001:2008 & ISO 22000:2005</span>
+                                 </h3>
+                                 <div class="pbminfotech-box-team-position">Registered Member</div>
+                              </div>
+                              <div class="pbmit-team-btn">
+                                 <a class="pbmit-team-text" href="#">
+                                 <i class="pbmit-base-icon-share"></i>
+                                 </a>
+                                 <div class="pbminfotech-box-social-links">
+                                    <ul class="pbmit-social-links pbmit-team-social-links">
+
+                                             <li class="pbmit-social-li pbmit-social-facebook">
+                                                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/images/dummy.pdf" title="Facebook" target="_blank">
+                                                     <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-twitter">
+                                                 <a href="https://twitter.com/intent/tweet?url=https://yourdomain.com/images/dummy.pdf&text=Check%20out%20our%20certification!" title="Twitter" target="_blank">
+                                                     <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-linkedin">
+                                                 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/images/dummy.pdf" title="LinkedIn" target="_blank">
+                                                     <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-whatsapp">
+                                                 <a href="https://wa.me/?text=https://yourdomain.com/pdfs/fieo_certificate.pdf" title="WhatsApp" target="_blank">
+                                                     <span><i class="pbmit-base-icon-whatsapp"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-instagram">
+                                                 <a href="images/dummy.pdf" title="Instagram" target="_blank" download>
+                                                     <span><i class="pbmit-base-icon-download"></i></span>
+                                                 </a>
+                                             </li>
+                                         </ul>
                                  </div>
                               </div>
                            </div>
@@ -166,27 +235,33 @@
                                  </a>
                                  <div class="pbminfotech-box-social-links">
                                     <ul class="pbmit-social-links pbmit-team-social-links">
-                                       <li class="pbmit-social-li pbmit-social-facebook">
-                                          <a href="#" title="Facebook" target="_blank">
-                                          <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-twitter">
-                                          <a href="#" title="Twitter" target="_blank">
-                                          <span><i class="pbmit-base-icon-twitter-2"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-linkedin">
-                                          <a href="#" title="LinkedIn" target="_blank">
-                                          <span><i class="pbmit-base-icon-linkedin-in"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-instagram">
-                                          <a href="#" title="Instagram" target="_blank">
-                                          <span><i class="pbmit-base-icon-instagram"></i></span>
-                                          </a>
-                                       </li>
-                                    </ul>
+
+                                             <li class="pbmit-social-li pbmit-social-facebook">
+                                                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/images/dummy.pdf" title="Facebook" target="_blank">
+                                                     <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-twitter">
+                                                 <a href="https://twitter.com/intent/tweet?url=https://yourdomain.com/images/dummy.pdf&text=Check%20out%20our%20certification!" title="Twitter" target="_blank">
+                                                     <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-linkedin">
+                                                 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/images/dummy.pdf" title="LinkedIn" target="_blank">
+                                                     <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-whatsapp">
+                                                 <a href="https://wa.me/?text=https://yourdomain.com/pdfs/fieo_certificate.pdf" title="WhatsApp" target="_blank">
+                                                     <span><i class="pbmit-base-icon-whatsapp"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-instagram">
+                                                 <a href="images/dummy.pdf" title="Instagram" target="_blank" download>
+                                                     <span><i class="pbmit-base-icon-download"></i></span>
+                                                 </a>
+                                             </li>
+                                         </ul>
                                  </div>
                               </div>
                            </div>
@@ -216,82 +291,39 @@
                                  </a>
                                  <div class="pbminfotech-box-social-links">
                                     <ul class="pbmit-social-links pbmit-team-social-links">
-                                       <li class="pbmit-social-li pbmit-social-facebook">
-                                          <a href="#" title="Facebook" target="_blank">
-                                          <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-twitter">
-                                          <a href="#" title="Twitter" target="_blank">
-                                          <span><i class="pbmit-base-icon-twitter-2"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-linkedin">
-                                          <a href="#" title="LinkedIn" target="_blank">
-                                          <span><i class="pbmit-base-icon-linkedin-in"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-instagram">
-                                          <a href="#" title="Instagram" target="_blank">
-                                          <span><i class="pbmit-base-icon-instagram"></i></span>
-                                          </a>
-                                       </li>
-                                    </ul>
+
+                                             <li class="pbmit-social-li pbmit-social-facebook">
+                                                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourdomain.com/images/dummy.pdf" title="Facebook" target="_blank">
+                                                     <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-twitter">
+                                                 <a href="https://twitter.com/intent/tweet?url=https://yourdomain.com/images/dummy.pdf&text=Check%20out%20our%20certification!" title="Twitter" target="_blank">
+                                                     <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-linkedin">
+                                                 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com/images/dummy.pdf" title="LinkedIn" target="_blank">
+                                                     <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-whatsapp">
+                                                 <a href="https://wa.me/?text=https://yourdomain.com/pdfs/fieo_certificate.pdf" title="WhatsApp" target="_blank">
+                                                     <span><i class="pbmit-base-icon-whatsapp"></i></span>
+                                                 </a>
+                                             </li>
+                                             <li class="pbmit-social-li pbmit-social-instagram">
+                                                 <a href="images/dummy.pdf" title="Instagram" target="_blank" download>
+                                                     <span><i class="pbmit-base-icon-download"></i></span>
+                                                 </a>
+                                             </li>
+                                         </ul>
                                  </div>
                               </div>
                            </div>
                         </div>
                      </article>
-                     <article class="pbmit-team-style-1 col-md-4">
-                        <div class="pbminfotech-post-item">
-                           <div class="pbmit-featured-wrap">
-                              <div class="pbmit-featured-inner">
-                                 <div class="pbmit-featured-img-wrapper">
-                                    <div class="pbmit-featured-wrapper pbmit-featured-wrapper-Credentials">
-                                       <img src="images/Credentials/iso-removebg-preview.webp" class="img-fluid" style="width: 60%;" alt="iso">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="pbminfotech-box-content">
-                              <div class="pbminfotech-box-content-inner">
-                                 <h3 class="pbmit-team-title">
-                                    <span>ISO 9001:2008 & ISO 22000:2005</span>
-                                 </h3>
-                                 <div class="pbminfotech-box-team-position">Registered Member</div>
-                              </div>
-                              <div class="pbmit-team-btn">
-                                 <a class="pbmit-team-text" href="#">
-                                 <i class="pbmit-base-icon-share"></i>
-                                 </a>
-                                 <div class="pbminfotech-box-social-links">
-                                    <ul class="pbmit-social-links pbmit-team-social-links">
-                                       <li class="pbmit-social-li pbmit-social-facebook">
-                                          <a href="#" title="Facebook" target="_blank">
-                                          <span><i class="pbmit-base-icon-facebook-f"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-twitter">
-                                          <a href="#" title="Twitter" target="_blank">
-                                          <span><i class="pbmit-base-icon-twitter-2"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-linkedin">
-                                          <a href="#" title="LinkedIn" target="_blank">
-                                          <span><i class="pbmit-base-icon-linkedin-in"></i></span>
-                                          </a>
-                                       </li>
-                                       <li class="pbmit-social-li pbmit-social-instagram">
-                                          <a href="#" title="Instagram" target="_blank">
-                                          <span><i class="pbmit-base-icon-instagram"></i></span>
-                                          </a>
-                                       </li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
+                    
                   </div>
                </div>
             </section>
