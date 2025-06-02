@@ -990,6 +990,37 @@ include __DIR__ . '/A_Layout/Header/header.php';
                      </div>
                   </div>
                </article>
+               <!-- Slide19 -->
+               <article class="pbmit-service-style-3 swiper-slide">
+                  <div class="pbminfotech-post-item">
+                     <div class="pbminfotech-box-content-desc-wraper">
+                        <div class="pbminfotech-box-content">
+                           <div class="pbmit-content-box">
+                              <div class="pbmit-serv-cat"></div>
+                              <h3 class="pbmit-service-title">
+                                 <a href="tiles"> Tilees </a>
+                              </h3>
+                           </div>
+                           <div class="pbmit-service-icon">
+                              <img src="./images/home/icon/tiles.png" alt="Tilees" />
+                           </div>
+                        </div>
+                        <div class="pbmit-service-description">
+                           <p>Durable and strong bonding solution.</p>
+                        </div>
+                     </div>
+                     <div class="pbmit-service-image-wrapper">
+                        <div class="pbmit-featured-img-wrapper">
+                           <div class="pbmit-featured-wrapper">
+                              <a href="tiles">
+                                 <img src="./images/home/slider/tiles.avif" class="img-fluid w-100"
+                                    alt="Tilees" />
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </article>
                <!-- Slide20 -->
                <article class="pbmit-service-style-3 swiper-slide">
                   <div class="pbminfotech-post-item">
@@ -1044,7 +1075,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="pbmit-featured-img-wrapper">
                            <div class="pbmit-featured-wrapper">
                               <a href="louvers">
-                                 <img src="./images/home/slider/Louvers.avif" class="img-fluid w-100" alt="Louvers" />
+                                 <img src="./images/home/slider/Louvers.png" class="img-fluid w-100" alt="Louvers" />
                               </a>
                            </div>
                         </div>
@@ -1629,7 +1660,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">America</h2>
+                                 <h2 class="pbmit-element-title">Germany</h2>
                               </div>
                            </div>
                         </div>
@@ -1642,7 +1673,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">USA</h2>
+                                 <h2 class="pbmit-element-title">Australia</h2>
                               </div>
                            </div>
                         </div>
@@ -1654,7 +1685,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">UK</h2>
+                                 <h2 class="pbmit-element-title">Norway</h2>
                               </div>
                            </div>
                         </div>
@@ -1666,7 +1697,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">UAE</h2>
+                                 <h2 class="pbmit-element-title">France</h2>
                               </div>
                            </div>
                         </div>
@@ -1679,7 +1710,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">USA</h2>
+                                 <h2 class="pbmit-element-title">Spain</h2>
                               </div>
                            </div>
                         </div>
@@ -1692,7 +1723,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">UK</h2>
+                                 <h2 class="pbmit-element-title">Romania</h2>
                               </div>
                            </div>
                         </div>
@@ -1718,7 +1749,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Canada</h2>
+                                 <h2 class="pbmit-element-title">Us</h2>
                               </div>
                            </div>
                         </div>
@@ -1731,7 +1762,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Australia</h2>
+                                 <h2 class="pbmit-element-title">Uk</h2>
                               </div>
                            </div>
                         </div>
@@ -1744,7 +1775,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Germany</h2>
+                                 <h2 class="pbmit-element-title">Netherlands</h2>
                               </div>
                            </div>
                         </div>
@@ -1757,7 +1788,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">South Africa</h2>
+                                 <h2 class="pbmit-element-title">Canada</h2>
                               </div>
                            </div>
                         </div>
@@ -1770,7 +1801,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Saudi Arabia</h2>
+                                 <h2 class="pbmit-element-title">Vietnam</h2>
                               </div>
                            </div>
                         </div>
@@ -1783,7 +1814,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Brazil</h2>
+                                 <h2 class="pbmit-element-title">Mexico</h2>
                               </div>
                            </div>
                         </div>
@@ -1796,7 +1827,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">India</h2>
+                                 <h2 class="pbmit-element-title">Kenya</h2>
                               </div>
                            </div>
                         </div>
@@ -1809,7 +1840,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">China</h2>
+                                 <h2 class="pbmit-element-title">Tanzania</h2>
                               </div>
                            </div>
                         </div>
@@ -1822,7 +1853,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Italy</h2>
+                                 <h2 class="pbmit-element-title">Madagascar</h2>
                               </div>
                            </div>
                         </div>
@@ -1835,111 +1866,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                  <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
                               </div>
                               <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">France</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Russia -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="13">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Russia</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Japan -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="14">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Japan</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Singapore -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="15">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Singapore</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Kenya -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="16">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Kenya</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Argentina -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="17">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Argentina</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Turkey -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="18">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Turkey</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- South Korea -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="19">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">South Korea</h2>
-                              </div>
-                           </div>
-                        </div>
-                     </article>
-                     <!-- Egypt -->
-                     <article class="pbmit-miconheading-style-2 swiper-slide" data-swiper-slide-index="20">
-                        <div class="pbmit-ihbox pbmit-ihbox-style-2">
-                           <div class="pbmit-ihbox-headingicon">
-                              <div class="pbmit-ihbox-icon">
-                                 <div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon"></div>
-                              </div>
-                              <div class="pbmit-ihbox-contents">
-                                 <h2 class="pbmit-element-title">Egypt</h2>
+                                 <h2 class="pbmit-element-title">Caneroon</h2>
                               </div>
                            </div>
                         </div>

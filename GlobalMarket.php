@@ -45,106 +45,106 @@
                   </div>
                   <div class="swiper-slider pbmit-timeline-style-1 pbmit-element-viewtype-carousel-1 swiper-initialized swiper-horizontal swiper-pointer-events" data-autoplay="false" data-loop="false" data-dots="false" data-arrows="false" data-columns="5" data-margin="30" data-effect="slide">
                      <div class="swiper-wrapper" id="swiper-wrapper-d657c6ce7d643f4b" aria-live="polite" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
-                        <!-- Slide1 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even swiper-slide-active" role="group" aria-label="1 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="images/GlobalMarket/flags/Afghanistan.png" class="img-fluid" alt="Afghanistan">									
+                              <img src="images/GlobalMarket/flags/germany-flag.webp" class="img-fluid" alt="Germany">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">1</p>
-                              <h3 class="pbmit-timeline-year">Afghanistan</h3>
+                              <h3 class="pbmit-timeline-year">Germany</h3>
                            </div>
                         </div>
-                        <!-- Slide2 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 264px; margin-right: 30px;">
-                           <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/albania-flag.jpg " class="img-fluid" alt="albania">									
-                           </div>
-                           <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
-                           <div class="pbmit-same-height steps-content_wrap">
-                              <p class="pbmit-timeline-title">2</p>
-                              <h3 class="pbmit-timeline-year">Albania</h3>
-                           </div>
-                        </div>
-                        <!-- Slide3 -->
-                        <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Australia.png" class="img-fluid" alt="Australia">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
-                              <p class="pbmit-timeline-title">3</p>
+                              <p class="pbmit-timeline-title">2</p>
                               <h3 class="pbmit-timeline-year">Australia</h3>
                            </div>
                         </div>
-                        <!-- Slide4 -->
-                        <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
+                        
+                        <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/argentina-flag.jpg" class="img-fluid" alt="argentina">									
+                              <img src="./images/GlobalMarket/flags/Norway.jpg" class="img-fluid" alt="Norway">									
+                           </div>
+                           <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
+                           <div class="pbmit-same-height steps-content_wrap">
+                              <p class="pbmit-timeline-title">3</p>
+                              <h3 class="pbmit-timeline-year">Norway</h3>
+                           </div>
+                        </div>
+                        
+                        <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
+                           <div class="pbmit-same-height steps-media pbmit-feature-image">
+                              <img src="./images/GlobalMarket/flags/france-flag.webp" class="img-fluid" alt="france">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">4</p>
-                              <h3 class="pbmit-timeline-year">Argentina</h3>
+                              <h3 class="pbmit-timeline-year">france</h3>
                            </div>
                         </div>
-                        <!-- Slide5 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="5 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/armenia-flag.webp" class="img-fluid" alt="Armenia">									
+                              <img src="./images/GlobalMarket/flags/Spain-flag.avif" class="img-fluid" alt="Spain">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">5</p>
-                              <h3 class="pbmit-timeline-year">Armenia</h3>
+                              <h3 class="pbmit-timeline-year">Spain</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/beautiful-greek-flag.webp" class="img-fluid" alt="Greece">									
+                              <img src="./images/GlobalMarket/flags/Romania.jpg" class="img-fluid" alt="Romania">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">6</p>
-                              <h3 class="pbmit-timeline-year">Greece</h3>
+                              <h3 class="pbmit-timeline-year">Romania</h3>
                            </div>
                         </div>
-                        <!-- Slide1 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even swiper-slide-active" role="group" aria-label="1 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="images/GlobalMarket/flags/belarus-flag.webp" class="img-fluid" alt="Belarus">									
+                              <img src="images/GlobalMarket/flags/us.png" class="img-fluid" alt="US">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">7</p>
-                              <h3 class="pbmit-timeline-year">Belarus</h3>
+                              <h3 class="pbmit-timeline-year">US</h3>
                            </div>
                         </div>
-                        <!-- Slide2 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/brazil-flag.webp" class="img-fluid" alt="Brazil">									
+                              <img src="./images/GlobalMarket/flags/United Kingdom-flag.avif" class="img-fluid" alt="United Kingdom">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">8</p>
-                              <h3 class="pbmit-timeline-year">Brazil</h3>
+                              <h3 class="pbmit-timeline-year">United Kingdom</h3>
                            </div>
                         </div>
-                        <!-- Slide3 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/bulgaria-flag.webp" class="img-fluid" alt="Bulgaria">									
+                              <img src="./images/GlobalMarket/flags/UAE.jpg" class="img-fluid" alt="UAE">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">9</p>
-                              <h3 class="pbmit-timeline-year">Bulgaria</h3>
+                              <h3 class="pbmit-timeline-year">UAE</h3>
                            </div>
                         </div>
-                        <!-- Slide4 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/canada-flag.webp" class="img-fluid" alt="canada">									
@@ -155,95 +155,85 @@
                               <h3 class="pbmit-timeline-year">canada</h3>
                            </div>
                         </div>
-                        <!-- Slide5 -->
-                        <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="5 / 6" style="width: 264px; margin-right: 30px;">
+                        
+                        <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/china-flag.webp" class="img-fluid" alt="China">									
+                              <img src="./images/GlobalMarket/flags/The Netherlands-flag.avif" class="img-fluid" alt="Netherlands">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">11</p>
-                              <h3 class="pbmit-timeline-year">China</h3>
+                              <h3 class="pbmit-timeline-year">Netherlands</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/czech-republic-flag.webp" class="img-fluid" alt="Czechia">									
+                              <img src="./images/GlobalMarket/flags/Vietnam-flag.jpg" class="img-fluid" alt="Vietnam">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">12</p>
-                              <h3 class="pbmit-timeline-year">Czechia</h3>
+                              <h3 class="pbmit-timeline-year">Vietnam</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/Costa-Rica-flag.webp" class="img-fluid" alt="Costa Rica">									
+                              <img src="./images/GlobalMarket/flags/Mexico-flag.webp" class="img-fluid" alt="Mexico">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">13</p>
-                              <h3 class="pbmit-timeline-year">Costa Rica</h3>
+                              <h3 class="pbmit-timeline-year">Mexico</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/denmark-flag.webp" class="img-fluid" alt="Denmark">									
+                              <img src="./images/GlobalMarket/flags/Kenya.jpg" class="img-fluid" alt="Kenya">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">14</p>
-                              <h3 class="pbmit-timeline-year">Denmark</h3>
+                              <h3 class="pbmit-timeline-year">Kenya</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/dominican-flag.webp" class="img-fluid" alt="Dominican">									
+                              <img src="./images/GlobalMarket/flags/Tanzania.jpg" class="img-fluid" alt="Tanzania">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">15</p>
-                              <h3 class="pbmit-timeline-year">Dominican</h3>
+                              <h3 class="pbmit-timeline-year">Tanzania</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/Egypt-flag.webp" class="img-fluid" alt="Egypt">									
+                              <img src="./images/GlobalMarket/flags/Madagascar.jpg" class="img-fluid" alt="Madagascar">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">16</p>
-                              <h3 class="pbmit-timeline-year">Egypt</h3>
+                              <h3 class="pbmit-timeline-year">Madagascar</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
-                        <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
+                       
+                        <!-- <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/estonia-flag.webp" class="img-fluid" alt="Estonia">									
+                              <img src="./images/GlobalMarket/flags/Caneroon.jpg" class="img-fluid" alt="Caneroon">									
                            </div>
                            <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
                            <div class="pbmit-same-height steps-content_wrap">
                               <p class="pbmit-timeline-title">17</p>
-                              <h3 class="pbmit-timeline-year">Estonia</h3>
+                              <h3 class="pbmit-timeline-year">Caneroon</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
-                        <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
-                           <div class="pbmit-same-height steps-media pbmit-feature-image">
-                              <img src="./images/GlobalMarket/flags/france-flag.webp" class="img-fluid" alt="france">									
-                           </div>
-                           <div class="steps-dot"><i class="steps-dot-line"></i><span class="dot"></span></div>
-                           <div class="pbmit-same-height steps-content_wrap">
-                              <p class="pbmit-timeline-title">18</p>
-                              <h3 class="pbmit-timeline-year">france</h3>
-                           </div>
-                        </div>
-                        <!-- Slide6 -->
+                        
+                       
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Georgia-flag.webp" class="img-fluid" alt="Georgia">									
@@ -254,7 +244,7 @@
                               <h3 class="pbmit-timeline-year">Georgia</h3>
                            </div>
                         </div>
-                        <!-- Slide2 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/HongKong-flag.webp" class="img-fluid" alt="HongKong">									
@@ -265,7 +255,7 @@
                               <h3 class="pbmit-timeline-year">HongKong</h3>
                            </div>
                         </div>
-                        <!-- Slide3 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Indonesia-flag.webp" class="img-fluid" alt="Indonesia">									
@@ -276,7 +266,7 @@
                               <h3 class="pbmit-timeline-year">Indonesia</h3>
                            </div>
                         </div>
-                        <!-- Slide4 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Israel-flag.webp" class="img-fluid" alt="Israel">									
@@ -287,7 +277,7 @@
                               <h3 class="pbmit-timeline-year">Israel</h3>
                            </div>
                         </div>
-                        <!-- Slide5 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="5 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Italy-flag.webp" class="img-fluid" alt="Italy">									
@@ -298,7 +288,7 @@
                               <h3 class="pbmit-timeline-year">Italy</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                       
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/jordan-flag.webp" class="img-fluid" alt="Jordan">									
@@ -309,7 +299,7 @@
                               <h3 class="pbmit-timeline-year">Jordan</h3>
                            </div>
                         </div>
-                        <!-- Slide1 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even swiper-slide-active" role="group" aria-label="1 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="images/GlobalMarket/flags/korea-flag.webp" class="img-fluid" alt="Korea">									
@@ -320,7 +310,7 @@
                               <h3 class="pbmit-timeline-year">Korea</h3>
                            </div>
                         </div>
-                        <!-- Slide2 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/kuwait-flag.webp" class="img-fluid" alt="Kuwait">									
@@ -331,7 +321,7 @@
                               <h3 class="pbmit-timeline-year">Kuwait</h3>
                            </div>
                         </div>
-                        <!-- Slide3 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/latvia-flag.webp" class="img-fluid" alt="latvia">									
@@ -342,7 +332,7 @@
                               <h3 class="pbmit-timeline-year">latvia</h3>
                            </div>
                         </div>
-                        <!-- Slide4 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/lebanon-flag.webp" class="img-fluid" alt="lebanon">									
@@ -353,7 +343,7 @@
                               <h3 class="pbmit-timeline-year">lebanon</h3>
                            </div>
                         </div>
-                        <!-- Slide5 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="5 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/libya-flag.webp" class="img-fluid" alt="libya">									
@@ -364,7 +354,7 @@
                               <h3 class="pbmit-timeline-year">libya</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                       
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/lithuania-flag.webp" class="img-fluid" alt="lithuania">									
@@ -375,7 +365,7 @@
                               <h3 class="pbmit-timeline-year">lithuania</h3>
                            </div>
                         </div>
-                        <!-- Slide1 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even swiper-slide-active" role="group" aria-label="1 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="images/GlobalMarket/flags/SriLanka-flag.jpg" class="img-fluid" alt="Sri Lanka">									
@@ -386,7 +376,7 @@
                               <h3 class="pbmit-timeline-year">Sri Lanka</h3>
                            </div>
                         </div>
-                        <!-- Slide2 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/malaysia-flag.webp" class="img-fluid" alt="Malaysia">									
@@ -397,7 +387,7 @@
                               <h3 class="pbmit-timeline-year">Malaysia</h3>
                            </div>
                         </div>
-                        <!-- Slide3 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="3 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/Mexico-flag.webp" class="img-fluid" alt="Mexico">									
@@ -408,7 +398,7 @@
                               <h3 class="pbmit-timeline-year">Mexico</h3>
                            </div>
                         </div>
-                        <!-- Slide4 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="4 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/maldives-flag.webp" class="img-fluid" alt="maldives">									
@@ -419,7 +409,7 @@
                               <h3 class="pbmit-timeline-year">maldives</h3>
                            </div>
                         </div>
-                        <!-- Slide5 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even" role="group" aria-label="5 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/moldova-flag.webp" class="img-fluid" alt="moldova">									
@@ -430,7 +420,7 @@
                               <h3 class="pbmit-timeline-year">moldova</h3>
                            </div>
                         </div>
-                        <!-- Slide6 -->
+                        
                         <div class="pbmit-timeline-wrapper swiper-slide" role="group" aria-label="6 / 6" style="width: 264px; margin-right: 30px;">
                            <div class="pbmit-same-height steps-media pbmit-feature-image">
                               <img src="./images/GlobalMarket/flags/monaco-flag.webp" class="img-fluid" alt="Monaco">									
@@ -440,7 +430,7 @@
                               <p class="pbmit-timeline-title">36</p>
                               <h3 class="pbmit-timeline-year">Monaco</h3>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                   </div>
