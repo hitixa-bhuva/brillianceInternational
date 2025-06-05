@@ -5,7 +5,7 @@ Header always set Content-Security-Policy "upgrade-insecure-requests"
 
 
 # Define custom error pages
-ErrorDocument 404 /error-404.html	
+ErrorDocument 404 /errorpage.php	
 
 # Rewrite rules for clean URLs
 RewriteRule ^about-us$ about-us.php [L,NC]
@@ -36,4 +36,5 @@ RewriteRule ^tileadhesive$ tileadhesive.php [L,NC]
 RewriteRule ^tiles$ tiles.php [L,NC]
 RewriteRule ^turmericpowder$ turmericpowder.php [L,NC]
 RewriteRule ^wheat$ wheat.php [L,NC]
+RewriteRule ^sitemap$ sitemap.php [L,NC]
 
