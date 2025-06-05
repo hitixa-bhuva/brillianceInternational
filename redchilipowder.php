@@ -62,7 +62,7 @@
                         <ul class="pbmit-hover-inner">
                            <li class="pbmit-title-wrapper">
                               <div class="pbmit-static-responsive-img">
-                                 <img src="images/products/red-chili-powder-01.jpg"
+                                 <img src="/images/product/product-details/redChiliPowder/slider/redchilipowder-1.avif"
                                     alt="Red Chili Powder">
                               </div>
                               <div class="pbmit-static-box-number">
@@ -81,7 +81,7 @@
                            </li>
                            <li class="pbmit-title-wrapper">
                               <div class="pbmit-static-responsive-img">
-                                 <img src="images/products/red-chili-powder-02.jpg" alt="Key Details">
+                                 <img src="images/product/product-details/redChiliPowder/slider/redchilipowder-2.avif" alt="Key Details">
                               </div>
                               <div class="pbmit-static-box-number">
                                  <div class="pbmit-box-number">Details</div>
@@ -103,7 +103,7 @@
                            </li>
                            <li class="pbmit-title-wrapper">
                               <div class="pbmit-static-responsive-img">
-                                 <img src="images/products/red-chili-powder-03.jpg"
+                                 <img src="/images/product/product-details/redChiliPowder/slider/redchilipowder-3.avif"
                                     alt="Quality & Packaging">
                               </div>
                               <div class="pbmit-static-box-number">

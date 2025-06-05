@@ -98,6 +98,7 @@ echo
 										<li><a href="products-enquiry">ProductsEnquiry</a></li>
 										<li><a href="global-market">Global Market</a></li>
 										<li><a href="contact-us">Contact Us</a></li>
+										<li><a href="sitemap">Sitemap</a></li>
 									</ul>
 								</aside>
 							</div>
