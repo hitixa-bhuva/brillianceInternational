@@ -6,7 +6,7 @@ echo
 
 <head>
 <!--====== Base Url ======-->
-<base href="https://localhost/brillianceInternational/"/>
+<base href="https://thebrillianceinternational.com/"/>
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
