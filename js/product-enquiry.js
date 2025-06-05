@@ -29,9 +29,9 @@ console.log("Collected form data:", { fullName, companyName, productCategory, em
         "Host": "216.10.241.228",
         "Port": "587",
         "SMTPSecure": "ssl",
-        "SenderEmail": "website@thebrillianceinternational.com",
-        "SenderEmailPassword": "8C=eB]$JX8J3",  
-        "ReciverEmail": "patelhitixa4439@gmail.com",
+        "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
+        "SenderEmailPassword": "1f1UOc{3U*64",  
+        "ReciverEmail": "thebrillianceinternational21@gmail.com",
         "Subject": subject,
         "Body": `
 
@@ -715,45 +715,6 @@ function isValidEmail(email) {
     console.log(`Email validation result for ${email}: ${isValid}`);
     return isValid;
 }
-
-// Contact Toast
-function showContactToast(message, type = "success") {
-  const toast = document.getElementById("contact-toast");
-  const toastMessage = toast.querySelector(".toast-message");
-  const toastIcon = toast.querySelector(".toast-icon");
-  const toastProgress = toast.querySelector(".toast-progress");
-
-  if (type === "success") {
-    toastIcon.textContent = "✓";
-    toastIcon.style.color = "green";
-    toastProgress.style.backgroundColor = "green";
-  } else if (type === "error") {
-    toastIcon.textContent = "⚠";
-    toastIcon.style.color = "red";
-    toastProgress.style.backgroundColor = "red";
-  } else if (type === "info") {
-    toastIcon.textContent = "ℹ";
-    toastIcon.style.color = "blue";
-    toastProgress.style.backgroundColor = "blue";
-  }
-
-  toastMessage.textContent = message;
-  toast.classList.add("show");
-  toastProgress.style.width = "100%";
-
-  setTimeout(() => {
-    toast.classList.remove("show");
-    toastProgress.style.width = "0";
-  }, 3000);
-}
-
-function hideContactToast() {
-  const toast = document.getElementById("contact-toast");
-  const toastProgress = toast.querySelector(".toast-progress");
-  toast.classList.remove("show");
-  toastProgress.style.width = "0";
-}
-
 // Product Toast
 function showProductToast(message, type = "success") {
   const toast = document.getElementById("product-toast");
@@ -761,18 +722,21 @@ function showProductToast(message, type = "success") {
   const toastIcon = toast.querySelector(".toast-icon");
   const toastProgress = toast.querySelector(".toast-progress");
 
+  // Remove previous type classes
+  toast.classList.remove("toast-success", "toast-error", "toast-info");
+
   if (type === "success") {
     toastIcon.textContent = "✓";
-    toastIcon.style.color = "green";
-    toastProgress.style.backgroundColor = "green";
+    toast.classList.add("toast-success");
+    toastProgress.style.backgroundColor = "#28a745";
   } else if (type === "error") {
     toastIcon.textContent = "⚠";
-    toastIcon.style.color = "red";
-    toastProgress.style.backgroundColor = "red";
+    toast.classList.add("toast-error");
+    toastProgress.style.backgroundColor = "#dc3545";
   } else if (type === "info") {
     toastIcon.textContent = "ℹ";
-    toastIcon.style.color = "blue";
-    toastProgress.style.backgroundColor = "blue";
+    toast.classList.add("toast-info");
+    toastProgress.style.backgroundColor = "#007bff";
   }
 
   toastMessage.textContent = message;
@@ -791,8 +755,6 @@ function hideProductToast() {
   toast.classList.remove("show");
   toastProgress.style.width = "0";
 }
-
-
 
 function clearFormProduct() {
     console.log("Clearing form fields...");

@@ -44,10 +44,6 @@ echo
 	<script src="js/whatsapp.js"></script>
 	<!-- loader JS -->
 	<script src="js/loader.js"></script>
-	<!-- contact page mail JS -->
-	<script src="js/Contact-mail.js"></script>
-	<!-- product-enquiry page mail JS -->
-	<script src="js/product-enquiry.js"></script>
 
 '
   ?>
