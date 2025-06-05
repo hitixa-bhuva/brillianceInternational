@@ -183,6 +183,14 @@
 .navigation .active:hover::before {
   width: 100%;
 }
+  .error-text {
+    color: red;
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  .is-invalid {
+    border-color: red !important;
+  }
 
 .custom-toast {
   visibility: hidden;
@@ -223,6 +231,26 @@
   display: flex;
   align-items: center;
   gap: 12px;
+}
+.toast-success,
+.toast-error,
+.toast-info {
+  background: none !important;
+  backdrop-filter: none !important;
+  background-color: unset !important;
+}
+
+/* Gradient styles */
+.toast-success {
+  background: linear-gradient(135deg, #28a745 0%, #20c997 100%) !important;
+}
+
+.toast-error {
+  background: linear-gradient(135deg, #dc3545 0%, #c82333 100%) !important;
+}
+
+.toast-info {
+  background: linear-gradient(135deg, #007bff 0%, #17a2b8 100%) !important;
 }
 
 .toast-icon {

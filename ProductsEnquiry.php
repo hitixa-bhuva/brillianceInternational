@@ -53,7 +53,7 @@
          </div>
          <div class="col-md-12 col-xl-6">
             <div class="pbmit-bg-color-global contact-one-right-bg">
-               <form class="" id="product-contect-form">
+               <form class="" id="product-contect-form" novalidate>
                   <div class="row">
                      <!-- Full Name -->
                      <div class="col-md-6 mb-3">
@@ -181,7 +181,7 @@
                               <path d="M3 3h18v18H3z"/>
                               <path d="M7 7l10 10"/>
                            </svg>
-                           <input type="text" class="form-control" placeholder="Arrival Port" name="Arrival port" id="arrivalPort" required="">
+                           <input type="text" class="form-control" placeholder="Arrival Port" name="Arrivalport" id="arrivalPort" required="">
                         </div>
                      </div>
                      <!-- Country/Location -->
@@ -262,6 +262,8 @@
 <!-- Iframe End-->
 </div>
 <!-- Contact Us Content End -->
+ <!-- product-enquiry page mail JS -->
+	<script src="js/product-enquiry.js"></script>
 <?php
    include __DIR__ . '/A_Layout/Footer/footer.php';
    ?>
